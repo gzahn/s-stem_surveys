@@ -1,0 +1,41 @@
+There is no significant effect of MCAT or MSLQ answers on student perception of mentor impact.We fitted a linear mixed model (estimated using REML and nloptwrap optimizer) to predict Impact_Response with MCAT_Response and MSLQ_Response
+(formula: Impact_Response ~ MCAT_Response + MSLQ_Response). The model included uvid as random effect (formula: ~1 | uvid). The model's total
+explanatory power is weak (conditional R2 = 0.06) and the part related to the fixed effects alone (marginal R2) is of 1.55e-10. The model's
+intercept, corresponding to MCAT_Response = 0 and MSLQ_Response = 0, is at 4.36 (95% CI [4.28, 4.44], t(2971158) = 111.47, p < .001). Within this
+model:
+
+  - The effect of MCAT Response is statistically non-significant and positive (beta = 8.39e-06, 95% CI [-1.13e-03, 1.14e-03], t(2971158) = 0.01, p
+= 0.988; Std. beta = 9.58e-06, 95% CI [-1.29e-03, 1.30e-03])
+  - The effect of MSLQ Response is statistically non-significant and positive (beta = 5.44e-06, 95% CI [-8.59e-04, 8.70e-04], t(2971158) = 0.01, p
+= 0.990; Std. beta = 7.48e-06, 95% CI [-1.18e-03, 1.20e-03])
+
+Standardized parameters were obtained by fitting the model on a standardized version of the dataset. 95% Confidence Intervals (CIs) and p-values
+were computed using a Wald t-distribution approximation.
+Linear mixed model fit by REML. t-tests use Satterthwaite's method ['lmerModLmerTest']
+Formula: Impact_Response ~ MCAT_Response + MSLQ_Response + (1 | uvid)
+   Data: combined
+
+REML criterion at convergence: 8140934
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.8506 -0.3869  0.4595  0.6752  1.6382 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ uvid     (Intercept) 0.05735  0.2395  
+ Residual             0.90664  0.9522  
+Number of obs: 2971163, groups:  uvid, 38
+
+Fixed effects:
+               Estimate Std. Error        df t value Pr(>|t|)    
+(Intercept)   4.359e+00  3.910e-02 3.799e+01 111.469   <2e-16 ***
+MCAT_Response 8.388e-06  5.787e-04 2.970e+06   0.014    0.988    
+MSLQ_Response 5.436e-06  4.410e-04 2.971e+06   0.012    0.990    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) MCAT_R
+MCAT_Respns -0.091       
+MSLQ_Respns -0.063 -0.031

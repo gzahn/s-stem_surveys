@@ -1,0 +1,10 @@
+We fitted a linear mixed model (estimated using REML and nloptwrap optimizer) to predict Response with date (formula: Response ~ date). The model
+included uvid as random effect (formula: ~1 | uvid). The model's total explanatory power is substantial (conditional R2 = 0.31) and the part
+related to the fixed effects alone (marginal R2) is of 0.01. The model's intercept, corresponding to date = [?], is at 1.39 (95% CI [0.05, 2.74],
+t(2715) = 2.03, p = 0.042). Within this model:
+
+  - The effect of date is statistically significant and positive (beta = 2.11e-04, 95% CI [1.43e-04, 2.80e-04], t(2715) = 6.03, p < .001; Std. beta
+= 2.12e-04, 95% CI [1.43e-04, 2.81e-04])
+
+Standardized parameters were obtained by fitting the model on a standardized version of the dataset. 95% Confidence Intervals (CIs) and p-values
+were computed using a Wald t-distribution approximation.
