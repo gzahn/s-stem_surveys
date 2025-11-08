@@ -1,0 +1,53 @@
+responder,ID,Question
+mentee,Q2_1,1. Active listening
+mentee,Q2_2,2. Providing you constructive feedback
+mentee,Q2_3,3. Establishing a relationship based on trust with you
+mentee,Q2_4,4. Identifying and accommodating different communication styles
+mentee,Q2_5,5. Employing strategies to improve communication with you
+mentee,Q2_6,6. Coordinating effectively with other mentors with whom you work
+mentee,Q2_7,7. Working with you to set clear expectations of the mentoring relationship
+mentee,Q3_1,8. Aligning his/her expectations with your own
+mentee,Q3_2,9. Considering how personal and professional differences may impact expectations
+mentee,Q3_3,10. Working with you to set research goals
+mentee,Q3_4,11. Helping you develop strategies to meet research goals
+mentee,Q3_5,12. Accurately estimating your level of scientific knowledge
+mentee,Q3_6,13. Accurately estimating your ability to conduct research
+mentee,Q3_7,14. Employing strategies to enhance your understanding of the research
+mentee,Q4_1,15. Motivating you
+mentee,Q4_2,16. Building your confidence
+mentee,Q4_3,17. Stimulating your creativity
+mentee,Q4_4,18. Acknowledging your professional contributions
+mentee,Q4_5,19. Negotiating a path to professional independence with you
+mentee,Q4_6,20. Taking into account the biases and prejudices s/he brings to your mentor/mentee relationship
+mentee,Q4_7,"21. Working effectively with mentees whose personal background is different from his/her own (age, race, gender, class, region, culture, religion, family composition etc.)"
+mentee,Q5_1,22. Helping you network effectively
+mentee,Q5_2,23. Helping you set career goals
+mentee,Q5_3,24. Helping you balance work with your personal life
+mentee,Q5_4,25. Understanding his/her impact as a role model for you
+mentee,Q5_5,"26. Helping you acquire resources (e.g. grants, etc.)"
+mentor,Q2_1,1. Active listening
+mentor,Q2_2,2. Providing constructive feedback
+mentor,Q2_3,3. Establishing a relationship based on trust
+mentor,Q2_4,4. Identifying and accommodating different communication styles
+mentor,Q2_5,5. Employing strategies to improve communication with mentees
+mentor,Q2_6,6.Coordinating effectively with other mentors with whom you work
+mentor,Q2_7,7.Working with mentees to set clear expectations of the mentoring relationship
+mentor,Q3_1,8. Aligning your expectations with your mentees’
+mentor,Q3_2,9. Considering how personal and professional differences may impact expectations
+mentor,Q3_3,10.Working with mentees to set research goals
+mentor,Q3_4,11. Helping mentees develop strategies to meet goals
+mentor,Q3_5,12.Accurately estimating your mentees’ level of scientific knowledge
+mentor,Q3_6,13. Accurately estimating your mentees’ ability to conduct research
+mentor,Q3_7,14. Employing strategies to enhance your mentees’ knowledge and abilities
+mentor,Q4_1,15. Motivating your mentees
+mentor,Q4_2,16. Building mentees’ confidence
+mentor,Q4_3,17. Stimulating your mentees’ creativity
+mentor,Q4_4,18. Acknowledging your mentees’ professional contributions
+mentor,Q4_5,19. Negotiating a path to professional independence with your mentees
+mentor,Q4_6,20. Taking into account the biases and prejudices you bring to the mentor/mentee relationship
+mentor,Q4_7,"21. Working effectively with mentees whose personal background is different from your own (age, race, gender, class, region, culture, religion, family composition etc.)"
+mentor,Q5_1,22. Helping your mentees network effectively
+mentor,Q5_2,23. Helping your mentees set career goals
+mentor,Q5_3,24. Helping your mentees balance work with their personal life
+mentor,Q5_4,25. Understanding your impact as a role model
+mentor,Q5_5,"26. Helping your mentees acquire resources (e.g. grants, etc.)"

@@ -1,0 +1,855 @@
+IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Consent,FirstName,LastName,uvid,UvuEmail,Position,cohort,responder_type
+161.28.60.22,100,7181,TRUE,1/22/2020 14:43,R_3J4bFuvMoTASn0y,40.04490662,-111.7321014,anonymous,EN,5,5,6,"Moderately skilled
+4",6,5,5,"Moderately skilled
+4",5,6,6,5,5,6,5,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,5,"Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.33,100,163,TRUE,1/27/2020 13:43,R_3DkzIju3NOPGVMp,40.04490662,-111.7321014,anonymous,EN,5,5,6,5,6,"Moderately skilled
+4",6,6,5,5,5,"Moderately skilled
+4","Moderately skilled
+4",5,5,5,5,6,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",5,5,5,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.14,100,175,TRUE,1/31/2020 8:46,R_2YunT7PU6tgMr3s,40.04490662,-111.7321014,anonymous,EN,6,6,6,6,6,5,6,6,6,6,6,5,5,6,6,6,6,6,6,6,6,5,5,5,6,"Extremely skilled
+7",Yes,T. Heath,Ogden,10569166,10569166@uvu.edu,Associate Professor - Biology,2019,Faculty
+161.28.60.90,100,210,TRUE,3/2/2020 10:20,R_3L5v2thUbJXL3DY,40.04490662,-111.7321014,anonymous,EN,"Moderately skilled
+4",5,6,"Moderately skilled
+4",5,6,5,"Moderately skilled
+4",6,3,3,5,5,5,6,6,5,"Extremely skilled
+7",6,6,6,"Moderately skilled
+4",5,5,6,6,Yes,Michaela,Gazdik Stofer,10799909,10799909@uvu.edu,Associate Professor - Biology,2019,Faculty
+161.28.60.15,100,123,TRUE,11/30/2020 15:30,R_20SXHGOT2w2yQW5,40.27830505,-111.7198029,anonymous,EN,6,6,5,5,5,"Moderately skilled
+4",5,6,6,5,5,5,5,"Moderately skilled
+4",5,5,6,5,3,"Moderately skilled
+4","Moderately skilled
+4",3,"Moderately skilled
+4",5,5,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.239.197,100,126,TRUE,11/30/2020 15:33,R_1hyjjI1quDkRQsg,40.23420715,-111.6442032,anonymous,EN,5,6,"Extremely skilled
+7",3,5,5,6,3,6,6,6,5,"Moderately skilled
+4",5,6,6,5,6,5,3,5,3,"Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4",Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2020,Faculty
+73.228.65.100,100,149,TRUE,11/30/2020 15:34,R_2XdRrqeGVfQIaoZ,40.29969788,-111.6736984,anonymous,EN,5,5,"Extremely skilled
+7",5,5,"Extremely skilled
+7",5,5,"Moderately skilled
+4","Extremely skilled
+7",6,6,"Moderately skilled
+4",5,5,6,5,"Extremely skilled
+7",5,5,"Extremely skilled
+7",5,"Extremely skilled
+7","Moderately skilled
+4",3,6,Yes,Ashley,Egan,10855047,10855047@uvu.edu,Assistant Professor - Biology,2020,Faculty
+161.28.60.171,100,571,TRUE,11/30/2020 16:08,R_WiA8hQIvSSvgWZj,40.27830505,-111.7198029,anonymous,EN,"Moderately skilled
+4",5,"Extremely skilled
+7",5,5,"Moderately skilled
+4",5,5,"Moderately skilled
+4","Moderately skilled
+4",3,6,6,6,6,6,6,"Extremely skilled
+7",6,5,6,3,5,5,6,6,Yes,Michaela,Gazdik Stofer,10799909,10799909@uvu.edu,Associate Professor - Biology,2019,Faculty
+67.182.218.138,100,165,TRUE,12/1/2020 8:52,R_3oTQalrHvWozGux,40.04490662,-111.7321014,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Moderately skilled
+4","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7",6,5,5,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,5,6,"Moderately skilled
+4",Yes,Britt,Wyatt,10927608,10927608@uvu.edu,Assistant Professor - Biology,2020,Faculty
+161.28.60.161,100,153,TRUE,12/2/2020 10:04,R_3j9eaRcW6LKaxVJ,40.27830505,-111.7198029,anonymous,EN,6,6,6,5,5,5,6,6,6,"Extremely skilled
+7",6,5,5,6,6,6,5,6,"Extremely skilled
+7",5,5,6,6,6,6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Associate Professor - Biology,2019,Faculty
+71.195.236.140,100,517,TRUE,12/3/2020 17:36,R_bxssC0ZdZAAutXz,40.39689636,-111.7919006,anonymous,EN,5,6,"Extremely skilled
+7",6,5,6,6,6,6,6,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,6,"Extremely skilled
+7",6,5,5,"Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.108,100,96,TRUE,12/8/2020 9:16,R_D6LErsuVzRezyet,40.3730011,-111.7371979,anonymous,EN,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2019,Faculty
+136.36.150.39,100,146,TRUE,12/8/2020 9:51,R_28XN9FBIndoeEao,40.69819641,-111.8410034,anonymous,EN,5,6,6,5,5,"Moderately skilled
+4",5,6,5,6,5,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",5,"Moderately skilled
+4",6,"Moderately skilled
+4","Moderately skilled
+4",5,2,3,"Moderately skilled
+4",5,5,Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2020,Faculty
+161.28.60.116,100,94,TRUE,12/8/2020 9:57,R_1mLvAYkfGshiCGc,40.3730011,-111.7371979,anonymous,EN,5,5,5,"Moderately skilled
+4",5,3,"Moderately skilled
+4","Moderately skilled
+4",5,5,5,"Moderately skilled
+4",5,5,5,5,5,"Moderately skilled
+4",3,3,"Moderately skilled
+4",3,3,5,"Moderately skilled
+4","Moderately skilled
+4",Yes,Eric,Domyan,10732418,10732418@uvu.edu,Assistant Professor - Biology,2019,Faculty
+166.70.252.208,100,206,TRUE,12/11/2020 21:13,R_3Jsojp97OvbsCF7,40.65660095,-111.8907013,anonymous,EN,6,6,"Extremely skilled
+7",5,6,N/A,5,5,5,6,"Extremely skilled
+7",5,5,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,5,5,6,5,6,6,6,"Extremely skilled
+7",Yes,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2019,Faculty
+69.162.230.8,100,261,TRUE,12/15/2020 16:28,R_5yyc6LsRwz2w2nr,40.39689636,-111.7919006,anonymous,EN,5,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7",6,6,6,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2019,Faculty
+98.202.162.72,100,149,TRUE,12/15/2020 16:28,R_83bizf9rziwrv9z,40.39689636,-111.7919006,anonymous,EN,6,6,6,5,5,5,5,5,5,5,6,5,5,5,"Moderately skilled
+4",5,"Moderately skilled
+4",6,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,5,5,5,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Assistant Professor - Biology,2019,Faculty
+73.63.9.140,100,166,TRUE,12/15/2020 16:28,R_dg8WkNNFb6GEeVf,40.75,-111.9208984,anonymous,EN,5,6,6,5,6,6,5,5,5,6,"Moderately skilled
+4",5,6,5,5,6,5,6,5,6,6,3,5,5,"Extremely skilled
+7",6,Yes,Michaela,Gazdik Stofer,10799909,10799909@uvu.edu,Associate Professor - Biology,2019,Faculty
+24.10.226.223,100,166,TRUE,12/15/2020 16:28,R_2aREz13QQy0ZQyh,40.27830505,-111.7198029,anonymous,EN,6,6,6,6,6,6,6,6,6,6,6,5,5,6,6,6,6,6,"Extremely skilled
+7",5,5,5,6,6,6,"Extremely skilled
+7",Yes,T. Heath,Ogden,10569166,10569166@uvu.edu,Associate Professor - Biology,2019,Faculty
+76.27.57.95,100,173,TRUE,12/15/2020 16:28,R_9YoTQdsJVN1zpsN,40.3730011,-111.7371979,anonymous,EN,5,6,"Extremely skilled
+7",5,6,5,"Moderately skilled
+4","Moderately skilled
+4",5,5,5,"Moderately skilled
+4","Moderately skilled
+4",5,5,"Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7",5,6,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2019,Faculty
+76.23.24.18,100,102,TRUE,12/15/2020 16:28,R_4O6LknzrT8P0flP,40.29969788,-111.6736984,anonymous,EN,5,5,6,"Moderately skilled
+4",5,3,3,5,6,5,5,5,"Moderately skilled
+4",5,5,5,"Moderately skilled
+4",6,"Moderately skilled
+4",3,3,3,3,5,5,5,Yes,Eric,Domyan,10732418,10732418@uvu.edu,Assistant Professor - Biology,2019,Faculty
+166.70.252.208,100,234,TRUE,12/15/2020 16:28,R_efIfSagRDtG0aDr,40.27830505,-111.7198029,anonymous,EN,5,6,6,5,6,6,5,5,6,6,5,6,6,6,5,6,5,5,5,6,6,5,5,5,6,5,Yes,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2019,Faculty
+65.130.69.171,100,343,TRUE,12/18/2020 10:50,R_OxK7iEEWB5bVA1r,40.55819702,-111.9222031,anonymous,EN,5,5,6,3,6,6,5,5,3,5,"Moderately skilled
+4",5,5,"Moderately skilled
+4","Extremely skilled
+7",6,6,"Extremely skilled
+7",5,"Moderately skilled
+4","Moderately skilled
+4",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,Yes,Sebastien,Tauzin,10800381,10800381@uvu.edu,Assistant Professor - Biotechnology,2020,Faculty
+161.28.238.159,100,119,TRUE,4/20/2021 14:20,R_2zzOLqHEnR9YIOQ,40.27830505,-111.7198029,anonymous,EN,"Moderately skilled
+4",6,"Moderately skilled
+4",3,5,6,"Moderately skilled
+4","Moderately skilled
+4",3,6,6,3,"Moderately skilled
+4",5,6,6,5,6,5,6,6,"Not at all skilled
+1",5,"Moderately skilled
+4",5,5,Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2020,Faculty
+161.28.87.23,100,104,TRUE,4/20/2021 15:09,R_2uD1d9ZJ9kLlWxU,40.23420715,-111.6442032,anonymous,EN,5,5,5,"Moderately skilled
+4",5,"Moderately skilled
+4",5,5,6,5,5,6,5,5,5,6,5,5,5,"Moderately skilled
+4",5,3,"Moderately skilled
+4",5,5,6,Yes,Eric,Domyan,10732418,10732418@uvu.edu,Assistant Professor - Biology,2019,Faculty
+98.202.224.171,100,172,TRUE,4/20/2021 16:01,R_1rvJ1dRPMFQpzCM,40.16360474,-111.5998001,anonymous,EN,6,6,6,"Moderately skilled
+4",5,"Moderately skilled
+4",5,6,6,5,6,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",6,5,6,6,5,6,6,5,"Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2019,Faculty
+65.130.18.150,100,210,TRUE,4/20/2021 16:32,R_DRVLZcGFh9Eb9TP,40.50840759,-111.8837967,anonymous,EN,5,5,6,5,6,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",6,5,"Moderately skilled
+4",5,5,"Moderately skilled
+4","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Moderately skilled
+4",2,6,"Extremely skilled
+7",6,6,5,Yes,Sebastien,Tauzin,10800381,10800381@uvu.edu,Assistant Professor - Biotechnology,2020,Faculty
+24.10.226.223,100,180,TRUE,4/22/2021 9:34,R_xghdPXrvOuwC2T7,40.27830505,-111.7198029,anonymous,EN,6,6,6,6,6,5,6,6,6,"Extremely skilled
+7",6,5,5,6,6,6,6,6,6,5,5,6,6,6,6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Associate Professor - Biology,2019,Faculty
+161.28.60.15,100,132,TRUE,4/23/2021 9:16,R_2P5mVEqeiBm8VIa,40.27830505,-111.7198029,anonymous,EN,5,5,5,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",5,5,5,"Moderately skilled
+4",5,5,3,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Assistant Professor - Biology,2019,Faculty
+166.70.252.208,100,139,TRUE,4/24/2021 21:06,R_1i26EcvuD0NTpvw,40.27830505,-111.7198029,anonymous,EN,6,6,6,5,5,6,6,6,6,6,6,5,5,6,6,6,5,"Extremely skilled
+7",6,6,5,5,5,6,6,6,Yes,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2019,Faculty
+136.60.226.137,100,150,TRUE,4/26/2021 19:22,R_1FqvFaGSlxUmElS,40.73109436,-111.8564987,anonymous,EN,5,5,"Extremely skilled
+7","Moderately skilled
+4",5,"Moderately skilled
+4",5,6,6,6,5,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7",5,6,6,"Moderately skilled
+4",5,2,6,"Moderately skilled
+4",6,5,Yes,Michaela,Gazdik Stofer,10799909,10799909@uvu.edu,Associate Professor - Biology,2019,Faculty
+206.251.43.82,100,674,TRUE,4/27/2021 8:53,R_2tJfc37Bt8tqQ5L,40.38330078,-111.989502,anonymous,EN,5,6,6,5,6,"Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7",6,6,5,3,6,"Extremely skilled
+7","Extremely skilled
+7",6,5,6,"Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",6,"Moderately skilled
+4",Yes,Britt,Wyatt,10927608,10927608@uvu.edu,Assistant Professor - Biology,2020,Faculty
+69.162.230.8,83,74,FALSE,4/27/2021 14:12,R_1OlQNRKs6I24AFE,,,anonymous,EN,6,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2019,Faculty
+136.36.150.39,100,155,TRUE,5/1/2021 15:35,R_reTZBx5b1IUBkv7,40.71429443,-111.8893967,anonymous,EN,5,6,6,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",5,6,5,5,6,6,6,6,5,5,6,5,5,5,5,5,2,3,5,Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2020,Faculty
+73.228.65.100,100,205,TRUE,5/9/2021 21:16,R_bQLOdFcBhGxD0Bz,40.29969788,-111.6736984,anonymous,EN,6,"Moderately skilled
+4","Extremely skilled
+7",5,6,"Extremely skilled
+7",5,5,"Moderately skilled
+4",6,5,"Moderately skilled
+4","Moderately skilled
+4",6,"Moderately skilled
+4",5,5,6,6,"Moderately skilled
+4","Extremely skilled
+7",6,6,5,"Moderately skilled
+4",6,Yes,Ashley,Egan,10855047,10855047@uvu.edu,Assistant Professor - Biology,2020,Faculty
+166.70.41.79,100,124,TRUE,12/8/2021 13:41,R_2xL8IKVY0GRZ2Bp,40.27830505,-111.7198029,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,5,6,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,5,6,6,6,6,"Extremely skilled
+7",6,6,6,6,6,5,"Extremely skilled
+7","Extremely skilled
+7",Yes,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.236.144,100,105,TRUE,12/9/2021 11:41,R_1cSyUpme8dbWC84,40.27830505,-111.7198029,anonymous,EN,5,5,6,5,6,6,"Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7",5,2,2,"Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",5,5,6,5,6,6,6,"Extremely skilled
+7",Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.15,100,116,TRUE,12/13/2021 11:43,R_3Do4CCGdYUGTbvO,40.6486969,-111.9682007,anonymous,EN,6,6,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,5,5,5,5,6,6,6,5,5,6,6,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,6,5,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Assistant Professor - Biology,2019,Faculty
+172.58.35.147,100,147,TRUE,12/14/2021 10:06,R_3CMYJ11xFT3FnDl,37.35119629,-121.8845978,anonymous,EN,6,5,6,"Moderately skilled
+4","Moderately skilled
+4",5,5,5,5,6,"Moderately skilled
+4","Moderately skilled
+4",3,6,6,6,5,"Extremely skilled
+7",6,5,6,6,"Moderately skilled
+4","Extremely skilled
+7",6,6,Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.96,17,12,FALSE,12/15/2021 14:38,R_da6Hr3ap0Rj39KN,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.9.243,100,142,TRUE,12/16/2021 13:54,R_3ktb8nSIofKgTjo,40.27830505,-111.7198029,anonymous,EN,6,6,6,6,6,6,5,5,5,"Extremely skilled
+7",6,5,5,5,6,6,6,6,6,5,6,6,6,6,6,6,Yes,Heath,Ogden,10569166,10569166@uvu.edu,Professor - Biology,2019,Faculty
+136.36.150.39,100,466,TRUE,12/17/2021 16:11,R_2uKBge8dH9GWfxC,40.69819641,-111.8410034,anonymous,EN,"Moderately skilled
+4",6,6,5,5,5,5,3,"Moderately skilled
+4",5,5,"Moderately skilled
+4","Moderately skilled
+4",5,5,5,5,6,5,5,5,5,5,5,6,6,Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2019,Faculty
+66.219.203.122,100,136,TRUE,12/20/2021 8:40,R_AmUPZz5Du55XqSt,40.49530029,-111.9439011,anonymous,EN,6,6,6,6,6,"Extremely skilled
+7",6,"Moderately skilled
+4",6,6,5,5,"Moderately skilled
+4",5,5,6,5,6,5,"Extremely skilled
+7","Extremely skilled
+7",5,5,5,"Extremely skilled
+7",5,Yes,Britt,Wyatt,10927608,10927608@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.171,100,362,TRUE,1/13/2022 15:02,R_1ff3sMULW3tUBo6,40.31190491,-111.6959,anonymous,EN,5,6,6,5,"Moderately skilled
+4",3,5,5,6,5,5,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,5,6,6,6,6,3,5,5,6,6,Yes,Michaela,Gazdik Stofer,10799909,10799909@uvu.edu,Associate Professor - Biology,2019,Faculty
+73.228.65.100,100,186,TRUE,1/20/2022 13:30,R_a5ZkfpyNx9JnVAt,40.29969788,-111.6736984,anonymous,EN,5,5,"Extremely skilled
+7",5,6,5,5,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4",3,5,3,5,"Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4",6,6,6,2,"Moderately skilled
+4",5,Yes,Ashley,Egan,10855047,10855047@uvu.edu,Assistant Professor - Biology,2021,Faculty
+161.28.60.146,100,356,TRUE,1/20/2022 14:32,R_VU9uM78CqYxk9MZ,40.31190491,-111.6959,anonymous,EN,6,6,"Moderately skilled
+4",3,"Moderately skilled
+4",N/A,5,5,5,6,6,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",5,3,6,5,"Moderately skilled
+4","Moderately skilled
+4",3,5,5,5,5,Yes,Zoe,Thompson,10957959,10957959@uvu.edu,Assistant Professor - Biology,2021,Faculty
+67.182.220.253,100,11834,TRUE,1/20/2022 18:44,R_2Bo1NOEQUDWJspr,40.69810486,-111.9999008,anonymous,EN,6,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,5,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,Yes,Jess,Cusick,10961612,10961612@uvu.edu,Assistant Professor - Biology,2021,Faculty
+73.68.118.119,100,568,TRUE,4/15/2022 8:08,R_2wh0Y5RXJDy6KNM,41.5953,-70.5705,anonymous,EN,5,6,6,6,5,6,5,"Moderately skilled
+4",5,6,5,"Moderately skilled
+4","Moderately skilled
+4",5,6,5,5,"Extremely skilled
+7",6,6,"Extremely skilled
+7",6,5,6,"Extremely skilled
+7",6,Yes,Jess,Cusick,10961612,10961612@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.96,100,535,TRUE,4/15/2022 8:13,R_3ilLueqe8HaxhaX,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.100,100,103,TRUE,4/15/2022 8:13,R_3h9Ba52PVmxIn32,40.2783,-111.7198,anonymous,EN,6,5,6,"Moderately skilled
+4",3,6,6,3,5,5,5,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4","Extremely skilled
+7",5,6,"Moderately skilled
+4",6,N/A,"Not at all skilled
+1",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2019,Faculty
+166.70.41.79,100,268,TRUE,4/15/2022 10:27,R_1JPXP06vYiVgfvc,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",N/A,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",5,6,"Extremely skilled
+7",6,5,6,"Extremely skilled
+7","Extremely skilled
+7",Yes,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.2.33,100,136,TRUE,4/18/2022 12:51,R_5goca6QRshD2lqx,40.2783,-111.7198,anonymous,EN,6,6,6,6,5,"Moderately skilled
+4","Moderately skilled
+4",5,5,6,6,5,5,6,"Moderately skilled
+4",5,5,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",5,6,Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.15,100,101,TRUE,4/19/2022 16:02,R_R48on0ZvTUXrK6Z,40.2783,-111.7198,anonymous,EN,5,5,6,5,6,5,5,5,5,5,5,5,5,5,5,6,6,6,5,5,5,"Moderately skilled
+4",5,5,5,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.146,100,170,TRUE,4/27/2022 17:16,R_2TtJPcxy9Wrn27T,40.2783,-111.7198,anonymous,EN,6,5,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,6,6,5,"Moderately skilled
+4",3,"Moderately skilled
+4","Moderately skilled
+4",5,5,"Moderately skilled
+4",6,5,"Moderately skilled
+4",5,"Moderately skilled
+4",5,5,5,"Moderately skilled
+4",Yes,Zoe,Thompson,10957959,10957959@uvu.edu,Assistant Professor - Biology,2019,Faculty
+66.219.203.122,100,286,TRUE,4/28/2022 10:10,R_2P0YmNt89Rko8vT,40.4953,-111.9439,anonymous,EN,6,6,6,5,5,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",6,5,"Moderately skilled
+4","Moderately skilled
+4",6,5,6,5,6,"Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",5,"Moderately skilled
+4","Extremely skilled
+7","Moderately skilled
+4",Yes,Britt,Wyatt,10927608,10927608@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.60.107,100,16817,TRUE,5/4/2022 16:20,R_uwfJDUUzlzVNjZ7,40.2783,-111.7198,anonymous,EN,5,6,"Extremely skilled
+7","Moderately skilled
+4",5,"Moderately skilled
+4",5,6,"Extremely skilled
+7",5,5,6,6,5,5,6,"Moderately skilled
+4","Extremely skilled
+7",5,6,6,"Moderately skilled
+4",6,5,"Extremely skilled
+7",6,Yes,Michaela,Gazdik Stofer,10799909,10799909@uvu.edu,Associate Professor - Biology,2019,Faculty
+161.28.60.15,17,17,FALSE,5/5/2022 12:58,R_3qU05qtZT9rjPB8,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paul,Dunn,10855757,10855757@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.9.208,100,129,TRUE,5/13/2022 11:42,R_2qsz72mUH72RFal,39.9705,-111.8129,anonymous,EN,6,6,6,6,6,6,6,6,6,"Extremely skilled
+7",6,5,5,6,6,6,6,6,6,5,6,6,6,6,6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Professor - Biology,2019,Faculty
+136.36.150.39,100,355,TRUE,5/23/2022 14:18,R_27pwxQkWganlH5Z,40.761,-111.8611,anonymous,EN,5,6,6,5,5,3,5,6,5,6,6,5,5,5,5,5,5,6,5,5,5,5,5,5,5,6,Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2019,Faculty
+161.28.9.213,100,151,TRUE,12/7/2022 15:34,R_3QGgmkJyDHV08GF,40.3942,-111.8483,anonymous,EN,6,6,6,6,6,6,6,6,6,"Extremely skilled
+7",6,5,5,6,6,6,6,6,6,5,5,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Professor - Biology,2020,Faculty
+205.118.69.211,100,125,TRUE,12/7/2022 17:48,R_3p2TCk1Io9Ep1k1,40.2584,-111.6591,anonymous,EN,6,6,5,5,6,6,6,"Moderately skilled
+4",5,6,6,3,3,5,6,5,6,"Extremely skilled
+7",6,6,6,2,"Moderately skilled
+4",3,"Moderately skilled
+4","Moderately skilled
+4",No,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2020,Faculty
+73.20.45.133,100,4030,TRUE,12/12/2022 14:05,R_W3h8t44ihUg18lj,40.598,-111.9619,anonymous,EN,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7",5,6,5,6,6,5,5,6,6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7",5,5,5,6,5,Yes,Britt,Wyatt,10927608,10927608@uvu.edu,Assistant Professor - Biology,2020,Faculty
+161.28.60.77,100,107,TRUE,12/14/2022 9:21,R_1ogKXQ3Iz1G41he,40.2783,-111.7198,anonymous,EN,6,6,5,5,6,"Moderately skilled
+4",5,6,6,6,6,5,5,6,6,6,6,6,"Moderately skilled
+4",5,5,6,5,6,6,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Associate Professor - Biology,2020,Faculty
+205.118.69.211,100,101,TRUE,12/16/2022 7:47,R_1OIh4wINbCRnjrf,40.2584,-111.6591,anonymous,EN,6,6,"Extremely skilled
+7",5,6,6,6,6,6,6,6,5,6,6,6,6,6,"Extremely skilled
+7",6,6,6,6,6,6,6,6,Yes,Jess,Cusick,10961612,10961612@uvu.edu,Assistant Professor - Biology,2020,Faculty
+161.28.60.146,100,307,TRUE,12/19/2022 15:53,R_1ND1bUQuRkckoyu,40.2783,-111.7198,anonymous,EN,5,6,"Moderately skilled
+4",3,3,"Moderately skilled
+4","Moderately skilled
+4",5,5,5,"Moderately skilled
+4",3,3,3,"Moderately skilled
+4","Moderately skilled
+4",3,6,6,"Moderately skilled
+4",5,"Moderately skilled
+4",5,5,"Moderately skilled
+4",6,Yes,Zoe,Thompson,10957959,10957959@uvu.edu,Assistant Professor - Biology,2020,Faculty
+174.230.198.63,100,244,TRUE,1/12/2023 8:03,R_4GjrFWUI5nVGRRT,40.7592,-111.8875,anonymous,EN,5,5,6,5,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7",Yes,Kimberlyn,Argyle,10920319,10920319@uvu.edu,,2021,Faculty
+174.162.142.10,100,141,TRUE,2/2/2023 16:36,R_2zdSTZqV7XpMBdm,40.2997,-111.6737,anonymous,EN,5,6,6,"Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7",6,5,6,6,5,5,"Moderately skilled
+4",6,5,6,6,"Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",6,"Extremely skilled
+7",6,6,5,"Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2020,Faculty
+205.118.69.211,100,228,TRUE,2/2/2023 18:18,R_STObWC8Cdzis7lL,40.2584,-111.6591,anonymous,EN,5,6,6,6,5,"Moderately skilled
+4",5,6,5,6,5,5,"Moderately skilled
+4","Moderately skilled
+4",5,6,6,6,5,5,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,5,Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2020,Faculty
+166.70.41.79,100,151,TRUE,4/18/2023 17:03,R_2OOK4GUai7GlyhP,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7",5,6,"Moderately skilled
+4",6,N/A,"Extremely skilled
+7","Moderately skilled
+4",5,"Extremely skilled
+7",5,"Moderately skilled
+4",3,6,"Moderately skilled
+4","Moderately skilled
+4",3,6,"Moderately skilled
+4",6,"Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4",3,6,"Extremely skilled
+7",No,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2022,Faculty
+205.118.69.211,100,129,TRUE,4/18/2023 17:14,R_10wS3YOJaqa1ckp,40.2783,-111.7198,anonymous,EN,6,5,"Extremely skilled
+7",3,"Moderately skilled
+4","Extremely skilled
+7",6,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4",6,5,6,6,6,"Extremely skilled
+7",6,"Moderately skilled
+4",6,3,"Moderately skilled
+4","Not at all skilled
+1",5,"Moderately skilled
+4",Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2022,Faculty
+73.98.144.251,100,98,TRUE,4/18/2023 17:37,R_2fwjouizfkQBfsW,40.3119,-111.6959,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,5,6,6,6,5,6,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.8.218,100,156,TRUE,4/19/2023 10:15,R_24oO0dkEQetxJMC,40.373,-111.7372,anonymous,EN,5,6,6,6,5,6,6,6,6,"Extremely skilled
+7",6,5,5,6,6,6,6,6,5,5,5,6,6,6,6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Professor - Biology,2022,Faculty
+161.28.213.3,100,167,TRUE,4/20/2023 13:31,R_2s1e5YZU4eIRik9,40.2783,-111.7198,anonymous,EN,5,6,6,6,5,"Moderately skilled
+4",6,6,5,5,6,5,5,5,6,5,5,6,5,"Moderately skilled
+4",5,"Moderately skilled
+4",5,6,5,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Associate Professor - Biology,2021,Faculty
+174.162.142.10,100,147,TRUE,4/20/2023 19:52,R_1DSBbJRH1DDLgi5,40.2997,-111.6737,anonymous,EN,6,6,"Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4",5,5,5,5,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",6,5,6,5,6,6,"Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7",5,5,5,6,Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.36,100,415376,TRUE,5/1/2023 13:24,R_UF6TbBZ7RsEP5lL,40.041,-111.7316,anonymous,EN,6,6,"Extremely skilled
+7",6,6,6,6,6,"Extremely skilled
+7",6,6,6,6,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,6,5,6,5,6,"Extremely skilled
+7",Yes,Jess,Cusick,10961612,10961612@uvu.edu,Assistant Professor - Biology,2021,Faculty
+205.118.69.211,100,125,TRUE,5/5/2023 15:29,R_2CjPqmr9IJfKZ2t,40.7742,-111.8721,anonymous,EN,5,6,"Extremely skilled
+7",6,5,3,6,6,5,5,6,6,6,6,6,6,6,"Extremely skilled
+7",5,6,6,"Moderately skilled
+4","Moderately skilled
+4",3,5,6,Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2022,Faculty
+73.12.161.203,100,136,TRUE,5/5/2023 16:25,R_29cOMP74fH8gdQZ,38.5559,-121.7391,anonymous,EN,6,6,5,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",5,5,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4",6,5,5,"Moderately skilled
+4",5,5,5,5,6,Yes,Zoe,Thompson,10957959,10957959@uvu.edu,Assistant Professor - Biology,2022,Faculty
+73.20.45.133,100,124,TRUE,5/18/2023 10:12,R_NXCIbvv60LfAlC9,40.598,-111.9619,anonymous,EN,5,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,6,6,6,6,"Extremely skilled
+7",5,5,5,"Extremely skilled
+7","Extremely skilled
+7",5,5,6,"Extremely skilled
+7",5,Yes,Britt,Wyatt,10927608,10927608@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.242.76,100,131,TRUE,11/30/2023 15:22,R_3RdZZIva2Y7Wr52,40.2783,-111.7198,anonymous,EN,5,6,6,5,6,6,6,5,5,"Extremely skilled
+7",6,5,5,"Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7",5,5,6,6,6,6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Professor - Biology,2022,Faculty
+161.28.60.71,100,68,TRUE,11/30/2023 15:24,R_2sR5c5Y4I6xNV6b,40.2783,-111.7198,anonymous,EN,5,5,5,5,5,5,5,3,3,6,6,2,6,6,6,6,6,6,6,6,6,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.20,100,152,TRUE,11/30/2023 15:26,R_3PNrtBQdbajqHzo,40.2783,-111.7198,anonymous,EN,"Moderately skilled
+4",5,6,"Moderately skilled
+4","Moderately skilled
+4",3,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",3,3,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4",6,6,"Moderately skilled
+4",6,6,No,Olga,Kopp,10012475,10012475@uvu.edu,Professor - Biology,2022,Faculty
+73.98.144.251,100,1512,TRUE,11/30/2023 16:11,R_3sA2D7SweiLRECh,40.2783,-111.7198,anonymous,EN,6,6,"Extremely skilled
+7",6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2022,Faculty
+174.211.231.95,100,91,TRUE,12/3/2023 9:40,R_YYY5KneDhxMRAZP,28.6344,-81.6221,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Jess,Cusick,10961612,10961612@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.92,100,121,TRUE,12/4/2023 9:43,R_1H82WPiLBhvl9W2,40.2783,-111.7198,anonymous,EN,6,6,5,5,5,N/A,6,6,5,5,5,5,5,6,6,6,5,5,"Moderately skilled
+4",5,5,"Moderately skilled
+4","Moderately skilled
+4",5,6,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Associate Professor - Biology,2022,Faculty
+166.70.41.79,100,112,TRUE,12/4/2023 21:40,R_3QMNGcaRQ334EpI,40.2783,-111.7198,anonymous,EN,6,6,6,6,6,N/A,6,5,6,6,6,5,5,6,6,6,5,"Extremely skilled
+7",6,6,6,5,5,5,6,"Extremely skilled
+7",No,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.146,100,8386,TRUE,12/12/2023 17:36,R_3MmPJ3OUtnRpHOw,40.2783,-111.7198,anonymous,EN,6,5,5,5,"Moderately skilled
+4",6,5,6,6,6,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,5,5,6,6,6,5,5,6,6,5,"Extremely skilled
+7",Yes,Zoe,Thompson,10957959,10957959@uvu.edu,Assistant Professor - Biology,2022,Faculty
+174.162.142.10,100,585,TRUE,12/19/2023 8:50,R_5IcO1yzfj3pLiT4,40.13,-111.5783,anonymous,EN,6,6,"Extremely skilled
+7",6,5,6,5,5,5,5,5,"Moderately skilled
+4","Moderately skilled
+4",6,"Moderately skilled
+4",5,5,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Associate Professor - Biology,2022,Faculty
+205.118.69.211,100,84,TRUE,12/20/2023 16:01,R_5HvuhyAiWTUSjtD,40.2342,-111.6442,anonymous,EN,5,5,"Extremely skilled
+7","Extremely skilled
+7",6,"Moderately skilled
+4",6,6,6,6,6,6,6,6,5,6,6,"Extremely skilled
+7",5,6,6,5,6,5,6,"Extremely skilled
+7",Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2022,Faculty
+73.98.144.251,100,137,TRUE,4/16/2024 17:49,R_2Lqyq3Igv9r2YuG,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,5,5,6,6,"Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.146,100,645,TRUE,4/16/2024 17:52,R_1golXTHjHjEjzG1,40.2783,-111.7198,anonymous,EN,6,5,5,5,5,6,6,6,6,6,5,5,5,5,6,5,5,6,6,6,6,5,6,6,5,"Extremely skilled
+7",Yes,Zoe,Thompson,10957959,10957959@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.71,100,88,TRUE,4/17/2024 7:55,R_7a3TxypWwonCctb,40.2783,-111.7198,anonymous,EN,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.92,100,107,TRUE,4/17/2024 8:48,R_7rAS63zGvd1PN9c,40.2783,-111.7198,anonymous,EN,6,6,6,5,5,"Moderately skilled
+4",5,6,5,5,5,5,5,6,6,6,6,6,"Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",6,6,6,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Associate Professor - Biology,2022,Faculty
+166.70.41.79,100,141,TRUE,4/18/2024 16:26,R_2rIx1pC9bWLF2QV,40.3119,-111.6959,anonymous,EN,6,6,6,6,6,N/A,5,5,6,6,6,5,5,6,5,"Extremely skilled
+7",5,"Extremely skilled
+7",6,6,6,5,6,5,6,"Extremely skilled
+7",No,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.141,100,109,TRUE,4/22/2024 7:22,R_1G3D8XvDYmuWUs9,40.2783,-111.7198,anonymous,EN,6,5,"Extremely skilled
+7",6,6,6,6,6,5,5,5,5,5,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,5,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Associate Professor - Biology,2022,Faculty
+161.28.242.76,100,127,TRUE,4/25/2024 10:43,R_8xTqBIRmH36YN3z,40.2783,-111.7198,anonymous,EN,5,6,6,6,5,5,6,6,5,6,5,5,5,5,6,6,5,6,6,5,5,5,6,6,6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Professor - Biology,2022,Faculty
+136.36.183.190,100,2149,TRUE,4/29/2024 14:01,R_1bUXzhb4mEl0cGI,40.2584,-111.6591,anonymous,EN,5,6,"Extremely skilled
+7",6,5,"Moderately skilled
+4",5,6,6,6,6,6,6,6,6,6,6,"Extremely skilled
+7",6,6,6,5,6,5,"Extremely skilled
+7",5,Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Assistant Professor - Biology,2022,Faculty
+76.140.83.186,100,116,TRUE,5/1/2024 16:24,R_3Z3BJ0Cf6iFUyXv,40.7311,-111.8565,anonymous,EN,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Jess,Cusick,10961612,10961612@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.242.110,100,159,TRUE,12/2/2024 13:31,R_5fj5Yb9v8NGN0s0,40.2783,-111.7198,anonymous,EN,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2022,Faculty
+129.170.197.155,100,95,TRUE,12/2/2024 14:17,R_5dYDld1EmLJ8DP1,43.7019,-72.2827,anonymous,EN,5,5,5,5,3,"Extremely skilled
+7",6,"Moderately skilled
+4",6,6,5,5,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Geoffrey,Zahn,10817462,10817462@uvu.edu,Associate Professor - Biology,2022,Faculty
+161.28.60.92,100,111,TRUE,12/2/2024 14:46,R_5FdhD5CVOyRB5LP,40.5672,-111.864,anonymous,EN,6,6,5,5,5,N/A,5,6,6,5,5,6,6,6,6,6,6,6,5,5,5,"Moderately skilled
+4",5,6,6,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Associate Professor - Biology,2022,Faculty
+166.70.41.79,100,128,TRUE,12/2/2024 14:51,R_1UBzVwSM4F49Gxj,40.3119,-111.6959,anonymous,EN,6,6,6,6,6,N/A,6,5,6,5,6,6,5,6,6,6,6,"Extremely skilled
+7",6,6,6,6,6,5,6,6,No,Dani,Taylor,10788629,10788629@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.242.73,100,5430,TRUE,12/2/2024 15:33,R_5OktPgIfQFSVgcf,40.2783,-111.7198,anonymous,EN,6,6,6,5,5,6,6,5,5,6,6,6,6,6,6,6,6,"Extremely skilled
+7",6,5,5,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",Yes,Heath,Ogden,10569166,10569166@uvu.edu,Professor - Biology,2022,Faculty
+98.202.130.224,100,128,TRUE,12/2/2024 22:10,R_7cjul0ZtFsC0yYA,40.3769,-111.7958,anonymous,EN,6,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,5,5,6,5,"Extremely skilled
+7",5,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.112,100,189,TRUE,4/16/2025 12:30,R_6zNNvI2L2aY4QP7,40.2783,-111.7198,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Yes,Alma,Laney,10887502,10887502@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.242.108,100,52,TRUE,4/16/2025 12:41,R_39LqlPHlyL7Slm9,40.2783,-111.7198,anonymous,EN,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",Yes,Michael,Rotter,10930352,10930352@uvu.edu,Assistant Professor - Biology,2022,Faculty
+161.28.60.92,100,101,TRUE,4/16/2025 14:50,R_7QsG3PZHiriRYzf,40.2783,-111.7198,anonymous,EN,6,6,6,5,5,N/A,5,5,6,6,6,6,5,6,6,6,6,6,"Moderately skilled
+4",5,6,"Moderately skilled
+4",5,6,6,6,Yes,Paul,Dunn,10855757,10855757@uvu.edu,Associate Professor - Biology,2022,Faculty
+161.28.60.104,100,642,TRUE,5/1/2025 11:04,R_7WBj9rk24gzig6h,40.2783,-111.7198,anonymous,EN,5,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7",6,6,6,6,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",5,6,6,5,5,5,"Extremely skilled
+7","Extremely skilled
+7",Yes,Lauren,Brooks,10851690,10851690@uvu.edu,Associate Professor - Biology,2022,Faculty
+161.28.60.77,100,127,TRUE,7/9/2025 19:00,R_7gObzRnU1wQLtpx,40.2783,-111.7198,anonymous,EN,6,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",6,"Moderately skilled
+4",5,6,6,6,5,5,5,5,6,5,"Extremely skilled
+7",6,5,5,5,5,6,5,6,Yes,Zoe,Thompson,10957959,10957959@uvu.edu,Assistant Professor - Biology,2022,Faculty

@@ -1,0 +1,3363 @@
+IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q2_1,Q2_2,Q2_3,Q2_4,Q2_5,Q2_6,Q2_7,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q3_7,Q4_1,Q4_2,Q4_3,Q4_4,Q4_5,Q4_6,Q4_7,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,uvid,firstName,lastName,studentEmail,maritalStatus,classLevelCode,majorDescription,majorProgram,gender,cohort,responder_type
+161.28.254.138,100,532,TRUE,1/13/2020 15:32,R_3hEkqjlPSsWmtmM,40.23420715,-111.6442032,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10873298,Joseph,Furniss,10873298@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2019,Student
+24.2.81.79,100,190,TRUE,1/13/2020 16:49,R_VVV4JxEaIcDzZHH,40.73109436,-111.8564987,anonymous,EN,5,5,5,"Moderately skilled
+4","Moderately skilled
+4",Not observed,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,Not observed,5,"Moderately skilled
+4",5,5,6,6,5,Not observed,Not observed,5,Not observed,Not observed,5,5,Not observed,10697463,Emma,Duke,10697463@my.uvu.edu,S,JR,Biology,BS-BIOL1,F,2019,Student
+161.28.242.199,100,159,TRUE,1/14/2020 11:18,R_1fko937XqDTfY3i,40.23420715,-111.6442032,anonymous,EN,"Extremely skilled
+7",6,6,5,6,5,6,6,"Extremely skilled
+7",6,6,5,5,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",10739648,Emily,Hyer,10739648@my.uvu.edu,M,JR,Biology,BS-BIOL1,F,2019,Student
+107.191.1.61,100,95,TRUE,1/14/2020 17:16,R_1dagUwiRyQY8Muy,40.39419556,-111.8482971,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10230327,Sarah,Quist,10230327@my.uvu.edu,M,JR,Biotechnology,BS-BIOT1,F,2019,Student
+136.36.15.67,100,216,TRUE,1/14/2020 22:01,R_30es0UVZ0I2pDd4,40.23420715,-111.6442032,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10809288,Alyssa,Tidwell,10809288@my.uvu.edu,M,SO,Biology,BS-BIOL1,F,2019,Student
+67.182.240.154,100,167,TRUE,1/14/2020 22:55,R_xzrWa7YsjgWtD5n,40.16360474,-111.5998001,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10667664,Rhett,Sudweeks,10667664@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2019,Student
+67.164.192.200,100,109,TRUE,1/15/2020 13:32,R_22ELrzl6zGUe0zZ,40.51530457,-112.031601,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10750428,Riley,Rowberry,10750428@my.uvu.edu,U,JR,Biology,BS-BIOL1,M,2019,Student
+66.219.252.14,100,1083,TRUE,1/20/2020 19:26,R_2v6pWMpaMBnal6g,40.25840759,-111.6591034,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10835843,Holly,Thelin,10835843@my.uvu.edu,S,SO,Biology,BS-BIOL1,F,2019,Student
+98.202.93.8,100,515,TRUE,1/20/2020 20:05,R_3OepUVw6QEBZCSY,40.39689636,-111.7919006,anonymous,EN,5,"Extremely skilled
+7",6,"Extremely skilled
+7",6,5,"Extremely skilled
+7",6,"Extremely skilled
+7",6,5,5,5,6,"Moderately skilled
+4",6,6,6,"Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",5,5,5,"Extremely skilled
+7",10734965,Sara,Ash,10734965@my.uvu.edu,M,JR,Biology,BS-BIOL1,F,2019,Student
+67.182.241.143,100,117,TRUE,11/30/2020 15:31,R_1Lu3uws82QXTF6r,40.16360474,-111.5998001,anonymous,EN,6,6,5,"Extremely skilled
+7",6,Not observed,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,Not observed,"Extremely skilled
+7",6,5,6,Not observed,6,Not observed,Not observed,Not observed,Not observed,Not observed,"Extremely skilled
+7","Extremely skilled
+7",10715780,Julie,Sauvageau,10715780@my.uvu.edu,M,SO,Biotechnology,BS-BIOT1,F,2020,Student
+24.10.232.133,100,103,TRUE,11/30/2020 15:43,R_3oMyNJmD4HzNAp7,40.31190491,-111.6959,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10876037,Joshua,Leon,10876037@my.uvu.edu,S,JR,Botany,BS-BOT1,M,2020,Student
+161.28.238.91,100,136,TRUE,11/30/2020 16:22,R_25LXMQO0F7cZV3Q,40.25840759,-111.6591034,anonymous,EN,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,6,6,6,6,Not observed,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10728050,Jake,Reed,10728050@my.uvu.edu,M,JR,Biology,BS-BIOL1,M,2020,Student
+172.58.38.211,100,214,TRUE,11/30/2020 17:11,R_22A0eRBhsPQAVdi,38.58790588,-121.405304,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7",10912261,David,Parker,10912261@my.uvu.edu,U,JR,Biology,BS-BIOL1,M,2020,Student
+161.28.45.94,100,187,TRUE,12/1/2020 9:23,R_3fIdAnC5Cj1EYPC,40.10270691,-111.6448975,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10872627,Noah,Wilson,10872627@my.uvu.edu,S,SO,Biology,BS-BIOL1,M,2020,Student
+139.60.65.196,100,90,TRUE,12/1/2020 14:20,R_BQXPrRveY7egtqN,40.38330078,-111.989502,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10873298,Joseph,Furniss,10873298@my.uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+24.11.127.148,100,117,TRUE,12/1/2020 15:21,R_cN3LBRUBW6oh1pD,40.29969788,-111.6736984,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4",6,3,"Extremely skilled
+7",3,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10820453,Reagan,Dodge,10820453@my.uvu.edu,S,JR,Botany,BS-BOT1,F,2019,Student
+71.195.208.19,100,153,TRUE,12/1/2020 16:29,R_3KDAPkmSeB3n9YT,40.2328949,-111.6688004,anonymous,EN,5,6,"Moderately skilled
+4","Extremely skilled
+7",5,6,"Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,5,6,5,"Extremely skilled
+7",10768192,Porter,Bischoff,10768192@my.uvu.edu,M,SO,Biotechnology,BS-BIOT1,M,2020,Student
+73.127.10.51,100,331,TRUE,12/4/2020 0:36,R_p9PTbCxT8k78sjT,40.39689636,-111.7919006,anonymous,EN,5,"Extremely skilled
+7",6,6,"Extremely skilled
+7",5,5,6,6,"Moderately skilled
+4",5,5,5,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",6,6,Not observed,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",6,"Moderately skilled
+4",10734965,Sara,Ash,10734965@my.uvu.edu,M,SR,Biology,BS-BIOL1,F,2019,Student
+216.170.129.132,100,35,TRUE,12/4/2020 0:39,R_1eReHWc3QoM8kyJ,37.10380554,-113.5764008,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10667664,Rhett,Sudweeks,10667664@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2019,Student
+65.48.65.171,100,187,TRUE,12/4/2020 12:03,R_3MDmYVvFy0NOnL5,40.31030273,-110.0134964,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,Not observed,6,6,Not observed,"Extremely skilled
+7",6,5,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,Not observed,6,Not observed,Not observed,Not observed,Not observed,Not observed,6,6,10921647,Brent,Lisonbee,10921647@my.uvu.edu,,JR,Biology,BS-BIOL1,M,2020,Student
+107.191.1.61,100,181,TRUE,12/4/2020 17:55,R_2TFPCQ0OGmepP1U,40.39419556,-111.8482971,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",Not observed,"Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",10230327,Sarah,Quist,10230327@my.uvu.edu,M,JR,Biotechnology,BS-BIOT1,F,2019,Student
+136.36.15.67,100,249,TRUE,12/6/2020 12:07,R_2pLxEn83lf8qPQC,40.23420715,-111.6442032,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10809288,Alyssa,Tidwell,10809288@my.uvu.edu,M,JR,University Studies,AS-UVST,F,2019,Student
+136.36.200.169,100,172,TRUE,12/7/2020 14:28,R_2EyL02RJfb8MNJB,40.2328949,-111.6688004,anonymous,EN,"Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,10835843,Holly,Thelin,10835843@my.uvu.edu,S,JR,Biology,BS-BIOL1,F,2019,Student
+73.65.185.77,100,78,TRUE,12/7/2020 22:15,R_899BPR4zOHdEq3v,40.87919617,-111.8685989,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10925322,Mason,Hoffman,10925322@my.uvu.edu,M,JR,Biology,BS-BIOL1,M,2020,Student
+94.122.220.147,100,108,TRUE,12/8/2020 2:23,R_1oEXX0oxH2rnKG4,36.87089539,30.52290344,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10701755,Chris,Nielsen,10701755@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2020,Student
+96.18.94.50,100,87,TRUE,12/8/2020 10:23,R_1E6yehyf1uzDHz4,43.49200439,-112.0591965,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10750428,Riley,Rowberry,10750428@my.uvu.edu,U,JR,Biology,BS-BIOL1,M,2019,Student
+136.36.148.232,100,308,TRUE,12/14/2020 14:15,R_3e4CLEPNRwmr6pU,40.69819641,-111.8410034,anonymous,EN,"Extremely skilled
+7",6,6,6,5,6,6,6,"Extremely skilled
+7",6,5,6,6,6,6,6,6,6,5,6,6,Not observed,5,6,6,6,10697463,Emma,Duke,10697463@my.uvu.edu,S,JR,Biology,BS-BIOL1,F,2019,Student
+136.36.15.67,100,204,TRUE,12/15/2020 16:51,R_dhh79W4qX0mf4pL,40.23420715,-111.6442032,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10809288,Alyssa,Tidwell,10809288@my.uvu.edu,M,SO,Biology,BS-BIOL1,F,2019,Student
+24.11.127.155,100,193,TRUE,12/15/2020 16:51,R_6xOKx06fn0GhllP,40.31190491,-111.6959,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",3,6,"Moderately skilled
+4",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",10820453,Reagan,Dodge,10820453@my.uvu.edu,S,JR,Botany,BS-BOT1,F,2019,Student
+73.152.82.212,100,192,TRUE,12/15/2020 16:51,R_eVy4uoskhw9al8N,38.50830078,-77.99430084,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,5,5,6,"Extremely skilled
+7",10835843,Holly,Thelin,10835843@my.uvu.edu,S,SO,Biology,BS-BIOL1,F,2019,Student
+73.113.1.8,100,61,TRUE,12/15/2020 16:51,R_0jsSIqAlso56exv,35.9375,-84.07299805,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10667664,Rhett,Sudweeks,10667664@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2019,Student
+73.52.186.111,100,103,TRUE,12/15/2020 16:51,R_79yynlla4wy9aNn,40.31190491,-111.6959,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,Not observed,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10739648,Emily,Hyer,10739648@my.uvu.edu,M,JR,Biology,BS-BIOL1,F,2019,Student
+107.191.1.61,100,208,TRUE,12/15/2020 16:51,R_6YgOa46NR4PDGW9,40.39419556,-111.8482971,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,6,6,6,6,6,5,6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",5,5,5,"Extremely skilled
+7","Extremely skilled
+7",10230327,Sarah,Quist,10230327@my.uvu.edu,M,JR,Biotechnology,BS-BIOT1,F,2019,Student
+98.202.93.8,100,421,TRUE,12/15/2020 16:51,R_009b9un5WOiemhf,40.39689636,-111.7919006,anonymous,EN,6,"Moderately skilled
+4",6,6,6,Not observed,"Moderately skilled
+4",5,5,6,6,5,5,6,3,"Moderately skilled
+4",5,6,5,Not observed,"Extremely skilled
+7","Extremely skilled
+7",3,"Extremely skilled
+7",5,5,10734965,Sara,Ash,10734965@my.uvu.edu,M,JR,Biology,BS-BIOL1,F,2019,Student
+139.60.65.196,100,125,TRUE,12/15/2020 16:51,R_6ShRoyjPRir6YRL,40.38330078,-111.989502,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10873298,Joseph,Furniss,10873298@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2019,Student
+24.2.81.79,100,135,TRUE,12/15/2020 16:51,R_5iKsznW4PMr10iN,40.71429443,-111.8893967,anonymous,EN,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",6,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,Not observed,Not observed,6,Not observed,5,6,6,6,10697463,Emma,Duke,10697463@my.uvu.edu,S,JR,Biology,BS-BIOL1,F,2019,Student
+172.56.41.132,100,160,TRUE,12/18/2020 7:43,R_1MRubYRqqCHkLDk,40.65960693,-111.9195023,anonymous,EN,6,5,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",5,5,"Extremely skilled
+7",6,6,"Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",5,"Extremely skilled
+7",10909761,Ciro,Mattina,10909761@my.uvu.edu,M,FR,Biology,BS-BIOL1,M,2020,Student
+67.182.241.143,100,94,TRUE,4/13/2021 18:40,R_3PpqB35WcLQLpCm,40.16360474,-111.5998001,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10715780,Julie,Sauvageau,10715780@my.uvu.edu,M,JR,Biotechnology,BS-BIOT1,F,2020,Student
+67.163.85.57,100,60,TRUE,4/14/2021 1:59,R_3GjGG6H3JgVNZG9,40.39689636,-111.7919006,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10667664,Rhett,Sudweeks,10667664@my.uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+161.28.45.79,100,189,TRUE,4/14/2021 8:38,R_1H8A4laHN7klf9E,40.3730011,-111.7371979,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10872627,Noah,Wilson,10872627@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2020,Student
+24.11.127.148,100,120,TRUE,4/14/2021 10:09,R_vYsA4SEBfBOjO6d,40.29969788,-111.6736984,anonymous,EN,6,"Moderately skilled
+4","Moderately skilled
+4",6,5,"Extremely skilled
+7",5,6,"Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",5,"Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",6,5,3,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7",10820453,Reagan,Dodge,10820453@my.uvu.edu,S,SR,Botany,BS-BOT1,F,2019,Student
+24.10.232.133,100,75,TRUE,4/14/2021 10:23,R_eG48MvZ28k0bjRD,40.27830505,-111.7198029,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10876037,Joshua,Leon,10876037@my.uvu.edu,S,SR,Botany,BS-BOT1,M,2020,Student
+172.56.41.218,100,488,TRUE,4/14/2021 13:24,R_3QLU3j2gBOLDIkZ,40.65960693,-111.9195023,anonymous,EN,3,6,6,"Extremely skilled
+7","Extremely skilled
+7",5,5,5,"Extremely skilled
+7",6,6,"Moderately skilled
+4",5,"Extremely skilled
+7","Moderately skilled
+4",3,5,6,6,Not observed,5,6,5,"Extremely skilled
+7",5,"Extremely skilled
+7",10734965,Sara,Ash,10734965@my.uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2019,Student
+174.52.137.133,100,177,TRUE,4/15/2021 10:34,R_SIWGSGQx7tDKWkh,40.31190491,-111.6959,anonymous,EN,5,6,5,5,5,Not observed,6,5,5,6,6,5,5,5,5,5,5,5,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",10728050,Jake,Reed,10728050@my.uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+71.199.37.237,100,119,TRUE,4/16/2021 13:59,R_1pVRu7qSSm5eX56,40.62260437,-111.7777023,anonymous,EN,5,6,"Extremely skilled
+7","Extremely skilled
+7",6,Not observed,6,6,6,6,6,"Extremely skilled
+7",6,5,"Extremely skilled
+7",6,5,"Extremely skilled
+7",6,5,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10701755,Chris,Nielsen,10701755@my.uvu.edu,S,JR,Biology,BS-BIOL1,M,2020,Student
+65.48.68.31,100,188,TRUE,4/16/2021 15:03,R_PICZOp0qrR7TIc1,40.31030273,-110.0134964,anonymous,EN,"Extremely skilled
+7",5,"Extremely skilled
+7",5,6,Not observed,5,5,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10921647,Brent,Lisonbee,10921647@my.uvu.edu,,JR,Biology,BS-BIOL1,M,2020,Student
+136.36.15.67,100,227,TRUE,4/16/2021 17:26,R_2ttlTAwNR9jsOCS,40.2328949,-111.6688004,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10809288,Alyssa,Tidwell,10809288@my.uvu.edu,M,JR,University Studies,AS-UVST,F,2019,Student
+139.60.69.42,100,91,TRUE,4/17/2021 12:50,R_pniLblirPdELarn,40.38330078,-111.989502,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10873298,Joseph,Furniss,10873298@my.uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+71.195.208.19,100,244,TRUE,4/17/2021 13:00,R_2D681ws3Y5cnOnP,40.2328949,-111.6688004,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,5,"Extremely skilled
+7",6,6,5,6,5,6,5,6,5,5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10768192,Porter,Bischoff,10768192@my.uvu.edu,M,JR,Biotechnology,BS-BIOT1,M,2020,Student
+107.191.2.22,100,154,TRUE,4/18/2021 20:10,R_1pWMHQi4qxnDCRk,40.49499512,-111.410202,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10230327,Sarah,Quist,10230327@my.uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2019,Student
+107.77.228.202,100,152,TRUE,4/20/2021 9:23,R_3qH74bjdZkSTgpX,34.10569763,-118.328598,anonymous,EN,6,6,"Extremely skilled
+7",6,6,6,5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",10835843,Holly,Thelin,10835843@my.uvu.edu,S,JR,Biology,BS-BIOL1,F,2019,Student
+172.56.40.202,100,104,TRUE,4/20/2021 13:35,R_1o0GUSvqjVBmEvr,40.65660095,-111.8907013,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10925322,Mason,Hoffman,10925322@my.uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+172.56.40.122,100,271,TRUE,4/20/2021 13:43,R_21Fb5Wn0Eh30Efa,40.5980072,-111.9618988,anonymous,EN,5,6,6,6,6,6,6,6,5,5,5,5,5,6,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4",3,"Moderately skilled
+4",6,2,5,3,"Moderately skilled
+4",10734965,Sara,Ash,10734965@my.uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2019,Student
+161.28.177.130,20,7,FALSE,4/23/2021 15:20,R_ezllRmSdMMamqHL,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,10768192,Porter,Bischoff,10768192@my.uvu.edu,M,JR,Biotechnology,BS-BIOT1,M,2020,Student
+66.60.96.130,100,63,TRUE,4/23/2021 19:24,R_1mI8BlwynWzoXlj,40.17919922,-111.5358963,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10750428,Riley,Rowberry,10750428@my.uvu.edu,U,JR,Biology,BS-BIOL1,M,2019,Student
+136.36.148.232,100,234,TRUE,4/29/2021 22:10,R_sIlCBshQ4DBZgYx,40.69819641,-111.8410034,anonymous,EN,6,5,5,6,5,6,6,5,6,6,5,6,6,6,5,5,5,5,Not observed,"Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7",6,5,10697463,Emma,Duke,10697463@my.uvu.edu,S,SR,Biology,BS-BIOL1,F,2019,Student
+172.58.38.191,100,201,TRUE,4/30/2021 15:39,R_VPearP7G9KTp0u5,38.69749451,-121.2714005,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10912261,David,Parker,10912261@my.uvu.edu,U,JR,Biology,BS-BIOL1,M,2020,Student
+172.83.4.54,100,130,TRUE,5/4/2021 4:52,R_2zVbwihh67D3GOA,40.17919922,-111.5358963,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10909761,Ciro,Mattina,10909761@my.uvu.edu,M,SO,Biology,BS-BIOL1,M,2020,Student
+66.219.203.205,100,255,TRUE,12/8/2021 13:22,R_21GnOJaGZZoQ6Sn,40.27830505,-111.7198029,anonymous,EN,6,5,5,Not observed,Not observed,Not observed,"Moderately skilled
+4",5,Not observed,6,6,Not observed,Not observed,Not observed,5,5,5,5,5,Not observed,Not observed,Not observed,Not observed,Not observed,6,6,10921647,Brent,Lisonbee,10921647@uvu.edu,,SR,Biology,BS-BIOL1,M,2020,Student
+161.28.235.15,100,79,TRUE,12/8/2021 15:00,R_2yr2OUCSNQw37s6,40.31190491,-111.6959,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10728050,Jake,Reed,10728050@my.uvu.edu,M,SR,Microbiology,BS-MBIO,M,2020,Student
+98.202.90.129,100,108,TRUE,12/8/2021 15:38,R_2WG3c1NlaKo49DX,40.39689636,-111.7919006,anonymous,EN,"Extremely skilled
+7",6,5,"Moderately skilled
+4",5,"Extremely skilled
+7",6,"Moderately skilled
+4","Moderately skilled
+4",3,3,6,6,6,6,5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",2,2,2,6,6,10715780,Julie,Sauvageau,10715780@uvu.edu,M,JR,Biotechnology,BS-BIOT1,F,2020,Student
+161.28.14.91,100,123,TRUE,12/8/2021 16:48,R_1gNqn6PiWPremEW,40.29969788,-111.6736984,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",3,5,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7",10939866,Magnolia,Morelli,10939866@uvu.edu,,JR,Biology,BS-BIOL1,F,2021,Student
+67.182.216.129,100,52,TRUE,12/8/2021 21:44,R_8j4zlTo2mcKU2SR,40.34950256,-111.8998032,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10869958,Tristan,Swensen,10869958@uvu.edu,S,JR,Biology,BS-BIOL1,M,2021,Student
+65.130.163.76,100,73,TRUE,12/9/2021 17:48,R_1HcccCivyHPklxN,40.55409241,-111.9429016,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10876037,Joshua,Leon,10876037@my.uvu.edu,S,SR,Botany,BS-BOT1,M,2020,Student
+73.63.67.3,100,148,TRUE,12/12/2021 19:58,R_0VTC2AZDASkgabv,40.58340454,-111.7466965,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10616246,Samantha,Ingram,10616246@my.uvu.edu,M,JR,Botany,BS-BOT1,F,2021,Student
+73.98.184.4,100,47,TRUE,12/12/2021 22:18,R_2dAXakYeFYW3QyJ,40.87919617,-111.8685989,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10925322,Mason,Hoffman,10925322@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+161.28.8.119,100,134,TRUE,12/13/2021 14:01,R_yyIx2pGMGl3fvKV,40.3730011,-111.7371979,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10873298,Joseph,Furniss,10873298@my.uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+107.191.1.103,100,206,TRUE,12/13/2021 16:26,R_1dN5rB1F1hsPqL0,40.70379639,-111.5437012,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,Not observed,"Extremely skilled
+7",6,Not observed,"Extremely skilled
+7",6,5,5,6,6,"Extremely skilled
+7",5,"Extremely skilled
+7",6,Not observed,"Extremely skilled
+7",5,6,Not observed,6,Not observed,10230327,Sarah,Quist,10230327@uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2019,Student
+161.28.237.201,100,33,TRUE,12/15/2021 15:43,R_1rqYDkXE0fgC1Iv,40.3730011,-111.7371979,anonymous,EN,2,2,"Not at all skilled
+1",2,"Not at all skilled
+1",2,2,"Not at all skilled
+1","Not at all skilled
+1",2,"Not at all skilled
+1",2,"Not at all skilled
+1",2,"Not at all skilled
+1","Not at all skilled
+1",2,"Not at all skilled
+1",2,"Not at all skilled
+1",2,2,"Not at all skilled
+1","Not at all skilled
+1","Not at all skilled
+1",2,10701755,Chris,Nielsen,10701755@uvu.edu,S,SR,Biology,BS-BIOL1,M,2020,Student
+136.36.5.140,100,181,TRUE,12/15/2021 16:51,R_3g5iuz9iL1nB2Tm,40.2328949,-111.6688004,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7",Not observed,10450881,Christy,Houston,10450881@uvu.edu,M,JR,Biology,BS-BIOL1,F,2021,Student
+136.36.15.67,100,187,TRUE,12/15/2021 19:22,R_10pVJcWFFe6JDl1,40.23420715,-111.6442032,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10809288,Alyssa,Tidwell,10809288@uvu.edu,M,SR,University Studies,AS-UVST,F,2019,Student
+216.170.129.132,100,212,TRUE,12/16/2021 0:18,R_1HporSqlU2DMOWa,37.08599854,-113.5608978,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,6,"Extremely skilled
+7","Extremely skilled
+7",10667664,Rhett,Sudweeks,10667664@uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+161.28.177.29,100,101,TRUE,12/16/2021 9:36,R_3mFSJuQjzeoam9X,40.27830505,-111.7198029,anonymous,EN,"Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",10768192,Porter,Bischoff,10768192@my.uvu.edu,S,SR,Biotechnology,BS-BIOT1,M,2020,Student
+162.218.217.73,20,46,FALSE,12/16/2021 13:43,R_1joDYYBvis5l0gT,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,10766011,Avery,Larsen,10766011@uvu.edu,S,SO,Biology,BS-BIOL1,F,2021,Student
+172.83.4.54,100,101,TRUE,12/17/2021 10:21,R_1N3X7JgL9KaKqgi,40.17770386,-111.5344009,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10909761,Ciro,Mattina,10909761@uvu.edu,M,SO,Biology,BS-BIOL1,M,2020,Student
+172.56.41.94,100,361,TRUE,12/17/2021 15:05,R_rfJKLEK0BSIxynv,40.65660095,-111.8907013,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7",5,"Moderately skilled
+4","Extremely skilled
+7",5,"Extremely skilled
+7",6,"Moderately skilled
+4",6,"Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Moderately skilled
+4","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10828799,Jacob,Mora,10828799@uvu.edu,,FR,Biology,BS-BIOL1,M,2021,Student
+98.225.45.94,100,78,TRUE,12/19/2021 15:46,R_1IK0uHKfhGa00Mk,47.79460144,-122.2192993,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10872627,Noah,Wilson,10872627@my.uvu.edu,S,SR,Microbiology,BS-MBIO,M,2020,Student
+161.28.8.119,20,4,FALSE,12/20/2021 14:02,R_Z7OWeJvZVjTWbGp,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,10873298,Joseph,Furniss,10873298@my.uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+107.191.1.103,20,5,FALSE,12/20/2021 16:54,R_2pLE9UHhmiwtjVI,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,10230327,Sarah,Quist,10230327@uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2019,Student
+66.60.96.131,100,79,TRUE,12/22/2021 21:48,R_3s18XfqnKQuHOas,40.17770386,-111.5344009,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,Not observed,"Moderately skilled
+4",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10750428,Riley,Rowberry,10750428@uvu.edu,U,SR,Biology,BS-BIOL1,M,2019,Student
+162.218.217.73,80,217,FALSE,12/23/2021 11:05,R_1feM2ZUwAPU3sOL,,,anonymous,EN,"Moderately skilled
+4",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,,,,,,10766011,Avery,Larsen,10766011@uvu.edu,S,JR,Biology,BS-BIOL1,F,2021,Student
+66.60.96.131,100,610,TRUE,4/14/2022 20:20,R_3ENhlxSFvPVM8HR,40.1777,-111.5344,anonymous,EN,6,6,6,3,3,"Extremely skilled
+7",5,6,6,6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,5,5,5,"Extremely skilled
+7",10667664,Rhett,Sudweeks,10667664@uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+69.162.253.105,100,122,TRUE,4/15/2022 8:34,R_D8lgvtPRPpMAfCh,40.3969,-111.7919,anonymous,EN,5,6,"Extremely skilled
+7",6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,"Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7",10939866,Magnolia,Morelli,10939866@uvu.edu,S,SR,Biology,BS-BIOL1,F,2021,Student
+174.52.137.133,100,186,TRUE,4/17/2022 12:05,R_2sSz9tLAYaE2tlT,40.3119,-111.6959,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10728050,Jake,Reed,10728050@uvu.edu,M,SR,Personal Interest,PI,M,2020,Student
+161.28.177.24,100,136,TRUE,4/18/2022 14:30,R_1qajnn7SrZKfpdF,40.3942,-111.8483,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Moderately skilled
+4",5,6,6,"Extremely skilled
+7",5,"Extremely skilled
+7",5,6,"Extremely skilled
+7",10768192,Porter,Bischoff,10768192@uvu.edu,S,SR,Biotechnology,BS-BIOT1,M,2020,Student
+161.28.238.206,100,173,TRUE,4/18/2022 18:26,R_BKs6FJnbkJ2TxYJ,40.3833,-111.9895,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7",6,6,"Extremely skilled
+7",5,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7",Not observed,Not observed,Not observed,6,"Extremely skilled
+7",10828799,Jacob,Mora,10828799@uvu.edu,,SO,Biology,BS-BIOL1,M,2021,Student
+107.191.1.103,100,419,TRUE,4/19/2022 11:26,R_DP6qmqPvNYQxi37,40.7038,-111.5437,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,Not observed,"Extremely skilled
+7",5,"Moderately skilled
+4","Extremely skilled
+7",5,5,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",Not observed,5,"Extremely skilled
+7","Moderately skilled
+4",6,Not observed,"Extremely skilled
+7","Extremely skilled
+7",10230327,Sarah,Quist,10230327@uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2019,Student
+161.28.236.164,100,160919,TRUE,4/22/2022 12:52,R_5t1ofrlMTQFCn6h,40.4953,-111.9439,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10701755,Chris,Nielsen,10701755@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+67.182.216.129,100,174,TRUE,4/25/2022 22:17,R_5u11qufZFweBZcJ,40.3495,-111.8998,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Moderately skilled
+4","Moderately skilled
+4",5,"Extremely skilled
+7","Extremely skilled
+7",6,"Moderately skilled
+4",6,"Moderately skilled
+4",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10869958,Tristan,Swensen,10869958@uvu.edu,S,SR,Biology,BS-BIOL1,M,2021,Student
+73.63.65.242,100,226,TRUE,4/26/2022 21:46,R_3NFmoPhumo78mJR,40.5834,-111.7467,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10616246,Samantha,Ingram,10616246@uvu.edu,M,SR,Botany,BS-BOT1,F,2021,Student
+136.36.15.67,100,172,TRUE,4/27/2022 18:46,R_1OOfQkXIOjDa88t,40.2329,-111.6688,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",5,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10809288,Alyssa,Tidwell,10809288@uvu.edu,M,SR,University Studies,AS-UVST,F,2019,Student
+24.10.146.239,100,101,TRUE,4/28/2022 10:01,R_3JKJqa9voFw6RRv,40.6571,-111.8343,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10876037,Joshua,Leon,10876037@uvu.edu,S,SR,Bioinformatics,BS-BIOI,M,2020,Student
+136.36.169.127,100,194,TRUE,4/30/2022 15:26,R_p4ww1U08kPDNfA5,40.2584,-111.6591,anonymous,EN,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,6,6,5,"Extremely skilled
+7",6,5,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10835843,Holly,Thelin,10835843@uvu.edu,S,SR,Biology,BS-BIOL1,F,2019,Student
+73.98.184.4,100,105,TRUE,5/4/2022 18:30,R_1NyIMUflX2WfkaK,40.8792,-111.8686,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10925322,Mason,Hoffman,10925322@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+66.60.96.131,20,5,FALSE,5/4/2022 22:24,R_3MJV21jOLAuBfSB,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,10667664,Rhett,Sudweeks,10667664@uvu.edu,S,SR,Biology,BS-BIOL1,M,2019,Student
+174.204.6.199,100,115,TRUE,5/14/2022 7:04,R_3oyZNBgtm0UWssX,40.7592,-111.8875,anonymous,EN,6,5,"Extremely skilled
+7",6,6,"Extremely skilled
+7",5,5,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,10920319,Kimberlyn,Argyle,10920319@uvu.edu,M,SR,Biology,BS-BIOL1,F,2021,Student
+66.219.203.205,100,128,TRUE,5/14/2022 9:13,R_22o94TFdAyjI5mT,40.2783,-111.7198,anonymous,EN,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,5,6,6,6,Not observed,5,5,6,6,6,10921647,Brent,Lisonbee,10921647@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+161.28.72.189,100,152,TRUE,5/16/2022 17:08,R_240M1GfpEPevckQ,40.5153,-112.0316,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",6,"Extremely skilled
+7",5,6,"Extremely skilled
+7",10912261,David,Parker,10912261@uvu.edu,D,SR,Microbiology,BS-MBIO,M,2020,Student
+166.70.59.121,100,93,TRUE,5/19/2022 0:11,R_29suOIHW1qpwhze,40.2783,-111.7198,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,6,6,6,5,6,6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10734383,Chloe,Loveland,10734383@uvu.edu,S,SR,Botany,BS-BOT1,F,2021,Student
+136.36.4.190,100,89,TRUE,5/20/2022 11:04,R_AGSgJpPTVNJI0Tv,40.2584,-111.6591,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10872627,Noah,Wilson,10872627@uvu.edu,S,SR,Microbiology,BS-MBIO,M,2020,Student
+172.58.62.74,100,112,TRUE,12/6/2022 18:15,R_yVAeiVWkq9VRVhT,39.6876,-104.9103,anonymous,EN,6,"Extremely skilled
+7",6,5,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Moderately skilled
+4","Moderately skilled
+4",6,5,"Moderately skilled
+4",6,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7",6,5,"Extremely skilled
+7",10788604,Jaycob,Russell,10788604@uvu.edu,S,JR,Biology,BS-BIOL1,M,2022,Student
+69.162.253.105,100,289,TRUE,12/7/2022 10:18,R_8w6DTAJPDAvYpON,40.3969,-111.7919,anonymous,EN,6,6,6,Not observed,Not observed,Not observed,Not observed,6,6,Not observed,"Extremely skilled
+7",Not observed,Not observed,Not observed,6,6,5,Not observed,Not observed,Not observed,6,Not observed,Not observed,6,Not observed,6,10993714,Lauren,Guerrero Silva,10993714@uvu.edu,,JR,Bioinformatics,BS-BIOI,F,2022,Student
+161.28.75.6,100,3720,TRUE,12/7/2022 11:06,R_2dv79Kbjf1pliUp,40.2329,-111.6688,anonymous,EN,3,3,2,6,5,3,3,6,2,5,2,"Not at all skilled
+1","Moderately skilled
+4",2,6,"Not at all skilled
+1",3,"Not at all skilled
+1",2,"Not at all skilled
+1",Not observed,3,3,2,2,"Extremely skilled
+7",10875507,Travis,Christensen,10875507@uvu.edu,S,JR,Biology,BS-BIOL1,M,2022,Student
+161.28.75.193,100,152,TRUE,12/7/2022 14:16,R_3sBNFaSKP1NKksK,40.2329,-111.6688,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10709592,Thong,Vo,10709592@uvu.edu,U,JR,Biology,BS-BIOL1,M,2022,Student
+161.28.233.103,100,143,TRUE,12/7/2022 15:10,R_10v0I2BMYajOG95,40.1636,-111.5998,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10616246,Samantha,Ingram,10616246@uvu.edu,M,SR,Botany,BS-BOT1,F,2021,Student
+161.28.249.141,100,95,TRUE,12/8/2022 10:01,R_2PAya1fSWhMswKf,40.1027,-111.6449,anonymous,EN,6,6,6,6,6,Not observed,6,5,"Moderately skilled
+4",5,5,5,5,5,5,5,5,5,5,5,Not observed,5,5,5,5,5,10946191,Grace,Van Buren,10946191@uvu.edu,,SO,Biology,BS-BIOL1,F,2022,Student
+174.52.164.187,100,162,TRUE,12/8/2022 14:28,R_25TPbBYtjKG2i2K,40.3119,-111.6959,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",Not observed,"Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",10820086,Mason,Park,10820086@uvu.edu,U,JR,Biology,BS-BIOL1,M,2022,Student
+69.162.253.105,100,184,TRUE,12/8/2022 14:33,R_2sRaNLs7pn7W4z0,40.3969,-111.7919,anonymous,EN,6,5,"Extremely skilled
+7",5,5,6,6,6,6,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Moderately skilled
+4",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10939866,Magnolia,Morelli,10939866@uvu.edu,S,SR,Bioinformatics,BS-BIOI,F,2021,Student
+66.219.203.205,100,172,TRUE,12/8/2022 20:49,R_eQieyibEUPK4TSN,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",Not observed,6,"Extremely skilled
+7",6,"Extremely skilled
+7",10768192,Porter,Bischoff,10768192@uvu.edu,S,SR,Biology,BS-BIOL1,M,2020,Student
+73.3.124.130,100,137,TRUE,12/9/2022 13:56,R_bKop5fAkauUBnJD,40.3119,-111.6959,anonymous,EN,3,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7",Not observed,Not observed,Not observed,"Moderately skilled
+4","Extremely skilled
+7",10828799,Jacob,Mora,10828799@uvu.edu,,JR,Biology,BS-BIOL1,M,2021,Student
+161.28.80.211,100,150,TRUE,12/9/2022 16:26,R_9Eqvy2hD6nKwEoh,40.1636,-111.5998,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,Not observed,Not observed,"Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",10741827,Austen,Miller,10741827@uvu.edu,S,JR,Biology,BS-BIOL1,M,2022,Student
+136.36.5.220,100,149,TRUE,12/11/2022 23:29,R_9RHeBY7OcrPI7AZ,40.2329,-111.6688,anonymous,EN,"Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10912261,David,Parker,10912261@uvu.edu,D,SR,Microbiology,BS-MBIO,M,2020,Student
+174.247.149.109,100,89,TRUE,12/12/2022 14:54,R_238qxQJTnP0lPNY,40.7592,-111.8875,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10850650,Ciera,Schiers,10850650@uvu.edu,M,JR,Biology,BS-BIOL1,F,2022,Student
+161.28.11.242,100,364,TRUE,12/13/2022 11:23,R_cHLN28MtVvUACjf,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10639312,Melissa,Rangel,10639312@uvu.edu,S,JR,Biology,BS-BIOL1,F,2022,Student
+73.52.157.116,100,81,TRUE,12/13/2022 14:19,R_32S1kjyaJzNhJCF,40.1636,-111.5998,anonymous,EN,5,3,"Moderately skilled
+4",5,3,2,6,6,6,3,"Moderately skilled
+4","Extremely skilled
+7",6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",3,3,"Moderately skilled
+4",2,10715780,Julie,Sauvageau,10715780@uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2020,Student
+65.181.58.40,100,35,TRUE,12/13/2022 14:56,R_3nN5JiuljqRRYu9,40.2584,-111.6591,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10701755,Chris,Nielsen,10701755@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+67.172.250.248,100,85,TRUE,12/13/2022 16:59,R_VQdV0lV7mkwwhYR,40.6571,-111.8343,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10876037,Joshua,Leon,10876037@uvu.edu,S,SR,Bioinformatics,BS-BIOI,M,2020,Student
+166.70.82.199,100,104,TRUE,12/14/2022 12:09,R_12kVgZzHxKAw2Q5,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,"Extremely skilled
+7",5,6,"Moderately skilled
+4","Extremely skilled
+7",6,5,"Extremely skilled
+7",6,5,"Extremely skilled
+7",6,"Extremely skilled
+7",10734383,Chloe,Loveland,10734383@uvu.edu,S,SR,Botany,BS-BOT1,F,2021,Student
+66.219.203.205,100,321,TRUE,12/14/2022 20:02,R_24FOZGrctG3idh3,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Moderately skilled
+4",Not observed,6,6,6,6,6,6,6,6,5,5,"Moderately skilled
+4",6,6,6,6,5,"Moderately skilled
+4",6,6,6,10921647,Brent,Lisonbee,10921647@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+174.204.9.180,100,133,TRUE,12/15/2022 10:47,R_reBvS4tM9Qkn90l,40.7849,-111.9338,anonymous,EN,"Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,10709592,Thong,Vo,10709592@uvu.edu,U,JR,Biology,BS-BIOL1,M,2022,Student
+76.140.53.114,100,76,TRUE,1/1/2023 23:12,R_3FPSkzvqhfuvi4a,40.8792,-111.8686,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,5,6,"Extremely skilled
+7","Extremely skilled
+7",10925322,Mason,Hoffman,10925322@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+205.118.69.211,100,401,TRUE,1/9/2023 9:37,R_1EhS0pyWB9JJTO2,40.2584,-111.6591,anonymous,EN,6,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",Not observed,"Moderately skilled
+4",3,3,6,"Moderately skilled
+4",6,3,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",6,5,3,6,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",6,10450881,Christy,Houston,10450881@uvu.edu,D,SR,Biology,BS-BIOL1,F,2021,Student
+161.28.86.195,100,235,TRUE,1/11/2023 14:45,R_2B9X0JUYYfBJpQY,40.2783,-111.7198,anonymous,EN,5,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,5,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",6,"Extremely skilled
+7",10920319,Kimberlyn,Argyle,10920319@uvu.edu,M,SR,Biology,BS-BIOL1,F,2021,Student
+66.219.203.205,100,79,TRUE,1/11/2023 15:07,R_2X7Hlbc0mPPXOAm,40.2783,-111.7198,anonymous,EN,6,"Extremely skilled
+7",6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,6,6,6,6,5,5,5,"Extremely skilled
+7",10863862,Kaleb,Lisonbee,10863862@uvu.edu,,JR,Biology,BS-BIOL1,M,2022,Student
+174.230.198.63,100,184,TRUE,1/12/2023 7:59,R_tKyEiqsEhBfigtX,40.7592,-111.8875,anonymous,EN,5,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",5,5,6,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10920319,Kimberlyn,Argyle,10920319@uvu.edu,M,SR,Biology,BS-BIOL1,F,2021,Student
+161.28.12.208,100,1907,TRUE,1/23/2023 12:36,R_r7qqurqpjTBmjdf,40.2329,-111.6688,anonymous,EN,5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10766011,Avery,Larsen,10766011@uvu.edu,S,SR,Biology,BS-BIOL1,F,2021,Student
+107.122.173.104,100,31,TRUE,1/24/2023 11:51,R_1laAY2NGXWxe9BT,40.65,-112.0061,anonymous,EN,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",10869958,Tristan,Swensen,10869958@uvu.edu,S,SR,Biology,BS-BIOL1,M,2021,Student
+174.230.208.157,100,124,TRUE,4/18/2023 18:16,R_8ADWHhNKibzAaBP,40.598,-111.9619,anonymous,EN,5,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10920319,Kimberlyn,Argyle,10920319@uvu.edu,M,SR,Biology,BS-BIOL1,F,2021,Student
+207.53.244.162,100,97,TRUE,4/19/2023 16:11,R_1LI04GofwEil4jW,40.7545,-111.883,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10850650,Ciera,Schiers,10850650@uvu.edu,M,JR,Biology,BS-BIOL1,F,2022,Student
+73.52.157.116,100,86,TRUE,4/19/2023 17:47,R_uk7kpKa6mTVIbHr,40.3969,-111.7919,anonymous,EN,5,6,"Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",5,,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",3,5,"Moderately skilled
+4","Extremely skilled
+7",6,10715780,Julie,Sauvageau,10715780@uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2020,Student
+104.143.68.241,100,188,TRUE,4/20/2023 16:13,R_qw0C2XTww25nbRD,40.041,-111.7316,anonymous,EN,6,5,"Moderately skilled
+4",3,3,Not observed,"Moderately skilled
+4","Moderately skilled
+4",2,"Moderately skilled
+4",2,2,"Moderately skilled
+4",2,2,"Not at all skilled
+1",2,"Not at all skilled
+1",2,2,Not observed,3,Not observed,5,"Moderately skilled
+4",6,10875507,Travis,Christensen,10875507@uvu.edu,S,JR,Biology,BS-BIOL1,M,2022,Student
+136.36.53.146,100,48,TRUE,4/20/2023 21:52,R_3pfHGtmgHmUla6m,40.2584,-111.6591,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10946191,Grace,Van Buren,10946191@uvu.edu,,SO,Biology,BS-BIOL1,F,2022,Student
+161.28.136.61,100,96,TRUE,4/24/2023 14:42,R_3NKQGiJcLjDdyvE,40.1027,-111.6449,anonymous,EN,"Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",6,6,"Extremely skilled
+7",6,"Extremely skilled
+7",10768192,Porter,Bischoff,10768192@uvu.edu,S,SR,Biology,BS-BIOL1,M,2020,Student
+161.28.10.253,100,88,TRUE,4/25/2023 9:05,R_Xv2ovjdrrO66iBj,40.2329,-111.6688,anonymous,EN,6,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Moderately skilled
+4",5,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,5,"Extremely skilled
+7",Not observed,10939866,Magnolia,Morelli,10939866@uvu.edu,S,SR,Bioinformatics,BS-BIOI,F,2021,Student
+161.28.234.57,100,366,TRUE,4/25/2023 10:44,R_2fKcu81ocFPSOtP,40.373,-111.7372,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,6,6,6,6,6,6,Not observed,Not observed,6,6,5,6,6,10993714,Lauren,Guerrero Silva,10993714@uvu.edu,,JR,Bioinformatics,BS-BIOI,F,2022,Student
+161.28.86.85,100,148,TRUE,4/25/2023 17:25,R_1dBn5UfKDCuI90w,40.2783,-111.7198,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,6,6,5,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10741827,Austen,Miller,10741827@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+161.28.75.136,100,4435,TRUE,4/26/2023 11:38,R_3kzIELgLNoNIhS4,40.2783,-111.7198,anonymous,EN,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,Not observed,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10820086,Mason,Park,10820086@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+98.202.50.249,100,83,TRUE,5/2/2023 14:58,R_3luLb6Clod1kHhd,40.5989,-111.8304,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10616246,Samantha,Ingram,10616246@uvu.edu,M,SR,Botany,BS-BOT1,F,2021,Student
+136.36.104.12,100,239,TRUE,5/2/2023 15:39,R_2XbVeezL0EZ5y3o,40.2584,-111.6591,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10709592,Thong,Vo,10709592@uvu.edu,U,JR,Biology,BS-BIOL1,M,2022,Student
+23.228.168.116,100,134,TRUE,5/3/2023 10:43,R_3kETdyoLgY95vlZ,40.2584,-111.6591,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10639312,Melissa,Rangel,10639312@uvu.edu,S,SR,Biology,BS-BIOL1,F,2022,Student
+161.28.83.230,100,723,TRUE,5/3/2023 12:33,R_2uI3l2XIeg6s9oy,40.2584,-111.6591,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4",5,6,"Extremely skilled
+7",10876037,Joshua,Leon,10876037@uvu.edu,S,SR,Bioinformatics,BS-BIOI,M,2020,Student
+73.228.77.50,100,50,TRUE,5/4/2023 12:00,R_1MRQntfueFEOD7S,40.041,-111.7316,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10869958,Tristan,Swensen,10869958@uvu.edu,S,SR,Biology,BS-BIOL1,M,2021,Student
+76.140.28.191,100,459,TRUE,5/4/2023 13:02,R_1ffU1JTDLCdwKkt,40.3942,-111.8483,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,"Extremely skilled
+7",6,6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10734383,Chloe,Loveland,10734383@uvu.edu,S,SR,Botany,BS-BOT1,F,2021,Student
+104.28.123.102,100,118,TRUE,5/5/2023 16:01,R_2ZCV6tE6e3ieOYf,34.0544,-118.2441,anonymous,EN,6,6,"Extremely skilled
+7",6,5,"Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,5,"Moderately skilled
+4",Not observed,"Extremely skilled
+7",5,10921647,Brent,Lisonbee,10921647@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+107.122.173.123,100,74,TRUE,5/5/2023 17:54,R_1ez21U7tre2QHou,40.7592,-111.8875,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10701755,Chris,Nielsen,10701755@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+67.186.242.213,100,123,TRUE,5/5/2023 18:00,R_DRVr98Cd0zXwF8t,40.3969,-111.7919,anonymous,EN,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,6,6,"Extremely skilled
+7",10788604,Jaycob,Russell,10788604@uvu.edu,S,JR,Biology,BS-BIOL1,M,2022,Student
+65.48.70.247,100,116,TRUE,5/5/2023 20:57,R_2f81xPhW9V2siR3,40.3103,-110.0135,anonymous,EN,5,5,"Moderately skilled
+4",Not observed,Not observed,Not observed,"Moderately skilled
+4",5,6,"Moderately skilled
+4",5,"Moderately skilled
+4",3,3,3,5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",10863862,Kaleb,Lisonbee,10863862@uvu.edu,,JR,Biology,BS-BIOL1,M,2022,Student
+174.162.173.230,100,157,TRUE,5/6/2023 13:59,R_3sbQcSr3Ea3Lrqs,40.2329,-111.6688,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7",5,"Moderately skilled
+4",3,"Extremely skilled
+7","Moderately skilled
+4",5,5,5,"Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",Not observed,Not observed,"Moderately skilled
+4",6,"Extremely skilled
+7",10828799,Jacob,Mora,10828799@uvu.edu,,JR,Biology,BS-BIOL1,M,2021,Student
+172.56.169.13,100,163,TRUE,5/8/2023 11:46,R_6rMQD6FUvLtccJr,38.581,-121.4939,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10912261,David,Parker,10912261@uvu.edu,D,SR,Microbiology,BS-MBIO,M,2020,Student
+98.225.45.94,100,96,TRUE,5/10/2023 16:32,R_3mkFKPZ1KfkwJEJ,47.7946,-122.2193,anonymous,EN,5,6,6,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7",5,6,6,6,6,6,5,5,5,5,5,5,5,"Moderately skilled
+4",5,5,5,5,10872627,Noah,Wilson,10872627@uvu.edu,S,SR,Microbiology,BS-MBIO,M,2020,Student
+161.28.10.237,100,2836,TRUE,5/11/2023 14:11,R_1H2nueNY1AnM2NO,40.2329,-111.6688,anonymous,EN,3,6,6,3,5,"Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7",5,"Moderately skilled
+4","Moderately skilled
+4",3,3,3,2,Not observed,3,3,3,6,"Moderately skilled
+4",3,"Extremely skilled
+7",10766011,Avery,Larsen,10766011@uvu.edu,S,SR,Biology,BS-BIOL1,F,2021,Student
+107.122.173.123,20,1,FALSE,5/12/2023 17:54,R_25A4aADUN5w6Btt,,,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,10701755,Chris,Nielsen,10701755@uvu.edu,M,SR,Biology,BS-BIOL1,M,2020,Student
+69.169.176.95,100,833,TRUE,5/16/2023 12:25,R_1EYXvwXzHfCDhGX,40.2783,-111.7198,anonymous,EN,6,6,"Moderately skilled
+4","Moderately skilled
+4",3,Not observed,3,3,"Moderately skilled
+4",6,5,6,"Moderately skilled
+4",6,"Moderately skilled
+4",3,"Moderately skilled
+4","Extremely skilled
+7",,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Moderately skilled
+4","Extremely skilled
+7",10450881,Christy,Houston,10450881@uvu.edu,D,SR,Biology,BS-BIOL1,F,2021,Student
+69.162.253.105,100,115,TRUE,11/29/2023 17:25,R_2QoidbLOsl90AtN,40.3969,-111.7919,anonymous,EN,6,6,6,5,5,6,6,6,6,6,6,,6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,6,"Moderately skilled
+4",5,6,5,6,10993714,Lauren,Silvatti,10993714@uvu.edu,S,SR,Bioinformatics,BS-BIOI,F,2022,Student
+136.36.5.220,100,334,TRUE,11/29/2023 20:11,R_6mcboFyl59ajM4x,40.2329,-111.6688,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10912261,David,Parker,10912261@uvu.edu,D,SR,Microbiology,BS-MBIO,M,2020,Student
+161.28.242.20,100,87,TRUE,12/1/2023 13:53,R_3KIn5ds6BgZ3slV,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10820086,Mason,Park,10820086@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+161.28.242.38,100,131,TRUE,12/4/2023 9:20,R_1n7Nm5EW6pfS5eQ,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10946191,Grace,Van Buren,10946191@uvu.edu,,JR,Biology,BS-BIOL1,F,2022,Student
+,100,11,TRUE,12/4/2023 9:45,R_25AxaeN8urb4ZPB,40.2783,-111.7198,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Student
+161.28.242.239,100,95,TRUE,12/4/2023 11:45,R_1gNNNyRiRXwDP9K,40.2783,-111.7198,anonymous,EN,5,6,6,6,6,"Moderately skilled
+4",6,"Moderately skilled
+4",5,6,6,6,6,6,"Extremely skilled
+7",5,,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7",5,3,3,"Extremely skilled
+7",10875507,Travis,Christensen,10875507@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+161.28.242.65,100,93,TRUE,12/5/2023 11:08,R_27CJMkmUlVItr5S,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10768192,Porter,Bischoff,10768192@uvu.edu,S,SR,Biology,BS-BIOL1,M,2020,Student
+73.52.157.116,100,60,TRUE,12/5/2023 21:48,R_ZtbGM0Jb4WxhoXf,40.3969,-111.7919,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10715780,Julie,Sauvageau,10715780@uvu.edu,M,SR,Biotechnology,BS-BIOT1,F,2020,Student
+69.162.253.105,100,112,TRUE,12/8/2023 9:21,R_3jTWRz07nloElD1,40.3969,-111.7919,anonymous,EN,5,3,"Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4",3,2,"Moderately skilled
+4",6,3,3,5,"Moderately skilled
+4","Moderately skilled
+4","Not at all skilled
+1","Moderately skilled
+4",3,"Moderately skilled
+4",3,"Extremely skilled
+7","Extremely skilled
+7",6,"Moderately skilled
+4",6,"Moderately skilled
+4","Extremely skilled
+7",10939866,Magnolia,Morelli,10939866@uvu.edu,S,SR,Bioinformatics,BS-BIOI,F,2021,Student
+205.197.219.121,100,85,TRUE,12/8/2023 10:49,R_2gZSa1HQDIAcuAN,40.3969,-111.7919,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10734383,Chloe,Loveland,10734383@uvu.edu,S,SR,Personal Interest,PI,F,2021,Student
+174.162.173.230,100,178,TRUE,12/8/2023 12:23,R_29uWEebhQP1b33h,40.2584,-111.6591,anonymous,EN,"Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",5,"Extremely skilled
+7","Moderately skilled
+4",6,"Extremely skilled
+7","Extremely skilled
+7",5,"Moderately skilled
+4","Moderately skilled
+4",3,3,6,"Moderately skilled
+4",6,5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7",5,6,10828799,Jacob,Mora,10828799@uvu.edu,,SR,Biology,BS-BIOL1,M,2021,Student
+161.28.242.131,100,191,TRUE,12/8/2023 19:59,R_1IGyBmKtJR4qj2S,40.2997,-111.6737,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",6,5,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10741827,Austen,Miller,10741827@uvu.edu,S,SR,Bioinformatics,BS-BIOI,M,2022,Student
+66.219.203.205,100,411,TRUE,12/8/2023 22:55,R_3qlpDh5h9KVlvsM,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7",10639312,Melissa,Rangel,10639312@uvu.edu,S,SR,Biology,BS-BIOL1,F,2022,Student
+174.247.146.32,100,117,TRUE,12/9/2023 13:51,R_129bFeo6B7pwcZQ,40.7592,-111.8875,anonymous,EN,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,6,10709592,Thong,Vo,10709592@uvu.edu,U,SR,Biology,BS-BIOL1,M,2022,Student
+73.3.100.210,100,105,TRUE,12/11/2023 17:01,R_2CCDLk4EvJIDDYJ,40.6981,-111.9999,anonymous,EN,5,"Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10920319,Kimberlyn,Argyle,10920319@uvu.edu,M,SR,Biology,BS-BIOL1,F,2021,Student
+161.28.242.36,100,86,TRUE,12/14/2023 16:40,R_3rVsonmqZI8XFtW,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",5,5,6,6,6,6,6,"Extremely skilled
+7",5,6,6,"Extremely skilled
+7",5,6,"Extremely skilled
+7",10788604,Jaycob,Russell,10788604@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+69.169.176.95,100,214,TRUE,1/8/2024 16:53,R_5e8kJR7h9gWqJBH,40.2783,-111.7198,anonymous,EN,6,6,3,3,"Moderately skilled
+4",Not observed,2,3,2,"Moderately skilled
+4","Moderately skilled
+4",2,2,6,"Moderately skilled
+4",3,"Moderately skilled
+4","Moderately skilled
+4","Moderately skilled
+4",2,3,6,5,3,2,"Extremely skilled
+7",10450881,Christy,Houston,10450881@uvu.edu,D,SR,Biology,BS-BIOL1,F,2021,Student
+207.204.56.13,100,182,TRUE,4/16/2024 17:56,R_3kSCp9XUZ9nFrbz,40.3833,-111.9895,anonymous,EN,6,6,6,5,6,"Moderately skilled
+4",6,5,"Extremely skilled
+7",6,5,5,5,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,6,Not observed,"Extremely skilled
+7",5,6,"Extremely skilled
+7",6,6,10993714,Lauren,Silvatti,10993714@uvu.edu,S,SR,Bioinformatics,BS-BIOI,F,2022,Student
+161.28.242.29,100,97,TRUE,4/16/2024 18:07,R_2j230fOjMApgpLj,40.2783,-111.7198,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10820086,Mason,Park,10820086@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+161.28.242.45,100,72,TRUE,4/17/2024 10:36,R_2RmhBsp8wPdup1p,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10946191,Grace,Van Buren,10946191@uvu.edu,,JR,Biology,BS-BIOL1,F,2022,Student
+155.98.131.1,100,145,TRUE,4/18/2024 11:29,R_3D1z9WhI2XYfMm5,40.761,-111.8611,anonymous,EN,"Extremely skilled
+7","Moderately skilled
+4","Extremely skilled
+7","Moderately skilled
+4","Moderately skilled
+4","Extremely skilled
+7",2,3,"Moderately skilled
+4","Extremely skilled
+7",3,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,6,"Extremely skilled
+7",Not observed,Not observed,Not observed,6,"Extremely skilled
+7",10828799,Jacob,Mora,10828799@uvu.edu,,SR,Biology,BS-BIOL1,M,2021,Student
+161.28.242.227,100,160,TRUE,4/18/2024 15:24,R_5D1iiAGXigAJZfj,40.2783,-111.7198,anonymous,EN,5,5,5,"Moderately skilled
+4",3,6,5,3,2,5,3,2,3,5,"Moderately skilled
+4",3,3,3,3,6,"Extremely skilled
+7",6,5,2,5,"Extremely skilled
+7",10875507,Travis,Christensen,10875507@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+136.36.104.12,100,183,TRUE,4/22/2024 1:46,R_1QFAeomqKVvCC4b,40.2584,-111.6591,anonymous,EN,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10709592,Thong,Vo,10709592@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+65.130.240.117,100,59,TRUE,4/22/2024 19:55,R_1EYfXfViErBjgpC,40.5581,-111.9222,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10734383,Chloe,Loveland,10734383@uvu.edu,S,SR,Personal Interest,PI,F,2021,Student
+69.162.253.105,100,78,TRUE,4/23/2024 18:14,R_3yI4jpGSzZjblOp,40.3969,-111.7919,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,6,"Moderately skilled
+4",6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Not at all skilled
+1",6,"Moderately skilled
+4","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10939866,Magnolia,Morelli,10939866@uvu.edu,S,SR,Bioinformatics,BS-BIOI,F,2021,Student
+161.28.242.191,100,2480,TRUE,4/23/2024 21:47,R_5qf3til8d2UrNTD,40.2783,-111.7198,anonymous,EN,5,6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10741827,Austen,Miller,10741827@uvu.edu,S,SR,Bioinformatics,BS-BIOI,M,2022,Student
+172.56.44.249,100,156,TRUE,4/25/2024 12:26,R_1Fm672CGwpYclrW,21.3266,-157.8621,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10639312,Melissa,Rangel,10639312@uvu.edu,S,SR,Biology,BS-BIOL1,F,2022,Student
+69.167.49.42,100,155,TRUE,12/2/2024 13:38,R_38NwGWwoc0gjEn9,40.2997,-111.6737,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",Not observed,6,Not observed,5,6,"Extremely skilled
+7",6,6,6,6,6,6,6,5,6,Not observed,Not observed,"Extremely skilled
+7",5,5,5,5,"Extremely skilled
+7",10993714,Lauren,Silvatti,10993714@uvu.edu,S,SR,Personal Interest,PI,F,2022,Student
+173.165.128.177,100,51,TRUE,12/2/2024 20:54,R_3NFnpmnUrS16wjB,40.3119,-111.6959,anonymous,EN,6,6,6,6,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,6,6,6,6,6,6,6,6,6,6,10875507,Travis,Christensen,10875507@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+98.202.68.58,100,205,TRUE,12/9/2024 20:38,R_78MrfTTy2NQd5hD,40.2997,-111.6737,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10709592,Thong,Vo,10709592@uvu.edu,S,SR,Personal Interest,PI,M,2022,Student
+161.28.242.71,100,2926,TRUE,12/12/2024 21:07,R_32EfwiQo89zWapr,40.2783,-111.7198,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7",6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7",10741827,Austen,Miller,10741827@uvu.edu,S,SR,Bioinformatics,BS-BIOI,M,2022,Student
+73.63.24.177,100,79,TRUE,12/16/2024 19:05,R_5Yx2xcYx9g0Uflv,40.3598,-111.7304,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10820086,Mason,Park,10820086@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+161.28.58.253,100,2068,TRUE,12/16/2024 19:42,R_576VpoqkntAs5HW,40.2783,-111.7198,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10639312,Melissa,Rangel,10639312@uvu.edu,S,SR,Biology,BS-BIOL1,F,2022,Student
+72.200.84.71,100,113,TRUE,12/26/2024 10:53,R_5jVWonjQg2VhV9M,33.3054,-111.7401,anonymous,EN,6,"Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7",Not observed,Not observed,"Extremely skilled
+7",6,6,6,5,"Moderately skilled
+4",6,5,6,6,5,6,"Extremely skilled
+7","Extremely skilled
+7","Moderately skilled
+4",5,5,5,"Extremely skilled
+7",10788604,Jaycob,Russell,10788604@uvu.edu,M,SR,Biology,BS-BIOL1,M,2022,Student
+73.63.24.177,100,61,TRUE,4/19/2025 19:56,R_3t4Vmph9eeTzmj7,40.3693,-111.7408,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",6,"Extremely skilled
+7",10820086,Mason,Park,10820086@uvu.edu,S,SR,Biology,BS-BIOL1,M,2022,Student
+23.228.168.116,100,312,TRUE,4/26/2025 12:39,R_7NbsteDEncMIsWW,40.2342,-111.6442,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",Not observed,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10639312,Melissa,Rangel,10639312@uvu.edu,S,SR,Biology,BS-BIOL1,F,2022,Student
+136.36.32.155,100,433,TRUE,4/27/2025 20:56,R_5HFRXvjBgbbFS4t,40.2342,-111.6442,anonymous,EN,6,6,"Extremely skilled
+7",6,5,"Extremely skilled
+7",6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,5,5,6,6,6,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",5,"Extremely skilled
+7","Extremely skilled
+7",10741827,Austen,Miller,10741827@uvu.edu,S,SR,Bioinformatics,BS-BIOI,M,2022,Student
+23.228.168.116,20,3,FALSE,5/3/2025 12:39,R_1hEATG9FJ1OgH0e,40.2342,-111.6442,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,10639312,Melissa,Rangel,10639312@uvu.edu,S,SR,Biology,BS-BIOL1,F,2022,Student
+172.224.242.42,100,67,TRUE,5/11/2025 10:53,R_5WUSuhsLSrc1cVX,40.2342,-111.6442,anonymous,EN,"Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7","Extremely skilled
+7",10946191,Grace,Van Buren,10946191@uvu.edu,,SR,Biology,BS-BIOL1,F,2022,Student
+72.200.84.71,100,200,TRUE,5/11/2025 17:48,R_6FFdFjpU7qibBcB,33.338,-111.7435,anonymous,EN,5,"Extremely skilled
+7",6,"Moderately skilled
+4",6,6,"Extremely skilled
+7",6,6,"Extremely skilled
+7","Extremely skilled
+7",5,5,6,5,5,6,"Extremely skilled
+7",6,6,6,6,6,"Moderately skilled
+4",5,"Extremely skilled
+7",10788604,Jaycob,Russell,10788604@uvu.edu,M,SR,Biology,BS-BIOL1,M,2022,Student
